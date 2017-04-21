@@ -1,0 +1,176 @@
+/* 在线留言 */
+#user_defined11 .message .message_title{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+@font-face {
+    font-family: 'webfont_1';
+    src: url('//at.alicdn.com/t/dkdkmy5tbnkoi529.eot');
+    src: url('//at.alicdn.com/t/dkdkmy5tbnkoi529.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/dkdkmy5tbnkoi529.woff') format('woff'),
+    url('//at.alicdn.com/t/dkdkmy5tbnkoi529.ttf') format('truetype'),
+    url('//at.alicdn.com/t/dkdkmy5tbnkoi529.svg#思源黑体-细') format('svg');
+}
+#user_defined11 .message_title h1{
+    font-size: 33px;
+    color: #010101;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_1";
+}
+#user_defined11 .message_title h2{
+    font-size: 15px;
+    color: #b7b7b7;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined11 .message_content{
+    width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 80px;
+}
+#user_defined11 .message .input_content{
+    width: 420px;
+    float: left;
+}
+#user_defined11 .message .input_content input{
+    width: 420px;
+    height: 48px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 0 16px;
+    font-size: 14px;
+    color: #404040;
+    border: none;
+    margin-bottom: 24px;
+    font-weight: normal;
+    font-family: "Microsoft YaHei","SimHei","SimSun";
+}
+#user_defined11 .message .input_content input.name{
+    background: #eaeaea;
+}
+#user_defined11 .message .input_content input.email{
+    background: #e5e5e5;
+}
+#user_defined11 .message .input_content input.tel{
+    background: #dddddd;
+}
+#user_defined11 .message .textarea_content{
+    width: 740px;
+    float: right;
+}
+#user_defined11 .message .textarea_content textarea{
+    width: 740px;
+    height: 192px;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 24px;
+    color: #404040;
+    background: #d9d9d9;
+    margin-bottom: 36px;
+    outline: none;
+    padding: 12px 16px;
+    resize: none;
+    border: none;
+    font-family: "Microsoft YaHei","SimHei","SimSun";
+}
+#user_defined11 .message a{
+    width: 1200px;
+    height: 45px;
+    clear: both;
+    line-height: 46px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    display: block;
+    background: #eb6100;
+    text-transform: uppercase;
+}
+
+/* 公司地图 */
+#user_defined12 .map{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+/* 联系方式 */
+#user_defined13 .contact .contact_title{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+@font-face {
+    font-family: 'webfont_2';
+    src: url('//at.alicdn.com/t/muic64yadeptlnmi.eot');
+    src: url('//at.alicdn.com/t/muic64yadeptlnmi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/muic64yadeptlnmi.woff') format('woff'),
+    url('//at.alicdn.com/t/muic64yadeptlnmi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/muic64yadeptlnmi.svg#思源黑体-细') format('svg');
+}
+#user_defined13 .contact_title h1{
+    font-size: 33px;
+    color: #010101;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_2";
+}
+#user_defined13 .contact_title h2{
+    font-size: 15px;
+    color: #b7b7b7;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined13 .contact_content{
+    width: 760px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+#user_defined13 .contact_info{
+    float: left;
+}
+#user_defined13 .contact_info h1{
+    margin:0;
+    font-weight:normal;
+    font-size:24px;
+    color:#666666;
+    line-height:48px;
+}
+#user_defined13 .contact_info p{
+    font-size:16px;
+    line-height:32px;
+    color:#7f7e7e;
+}
+#user_defined13 .contact_info p a{
+    color:#7f7e7e;
+    transition:all .3s;
+    -moz-transition:all .3s;
+    -o-transition:all .3s;
+    -webkit-transition:all .3s;
+}
+#user_defined13 .contact_info p a:hover{
+    color:#00579e;
+}
+#user_defined13 .code{
+    width:208px;
+    height:208px;
+    float:right;
+    font-size:0;
+}
+#user_defined13 .code img{
+    width:100%;
+    height:100%;
+}

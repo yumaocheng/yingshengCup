@@ -1,0 +1,98 @@
+/* 面包屑导航 */
+.hunk_breadcrumb_navigation{
+    background: #fff;
+}
+
+/* 产品展示 */
+#user_defined6 .pro{
+    background: #fcfcfc;
+    padding-bottom: 72px;
+    padding-top: 16px;
+}
+#user_defined6 .pro_content{
+    width: 1200px;
+    margin: 0 auto;
+}
+#user_defined6 .pro_content .loading{
+    text-align: center;
+    padding:50px 0;
+}
+#user_defined6 .pro_content ul{
+    width: 1200px;
+    margin-left: -20px;
+    padding: 20px;
+    overflow: hidden;
+}
+#user_defined6 .pro_content li{
+    width: 290px;
+    height: 374px;
+    float: left;
+    margin-right: 13px;
+    margin-bottom: 15px;
+}
+#user_defined6 .pro_content li:nth-child(4n){
+    margin-right: 0;
+}
+#user_defined6 .pro_content li a{
+    width: 290px;
+    height: 374px;
+    display: block;
+    background: #fff;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined6 .pro_content li a:hover{
+    box-shadow: 0 0 10px #ccc;
+    -moz-box-shadow: 0 0 10px #ccc;
+    -o-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+}
+#user_defined6 .pro_content .pro_pic{
+    width: 290px;
+    height: 290px;
+    display: block;
+}
+#user_defined6 .pro_content .pro_pic img{
+    width: 100%;
+    height: 100%;
+}
+#user_defined6 .pro_content .pro_details{
+    display: block;
+    padding-top: 13px;
+    padding-bottom: 21px;
+}
+#user_defined6 .pro_details .pro_name{
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    line-height: 25px;
+    color: #999999;
+}
+#user_defined6 .pro_details .pro_price{
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    line-height: 25px;
+    color: #cc0000;
+}
+#user_defined6 .pro_content a.more{
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    font-size: 13px;
+    color: #bcbcbc;
+    line-height: 55px;
+    display: none;
+    margin-top: 12px;
+    background: #fff;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined6 .pro_content a.more:hover{
+    background: #eb6100;
+    color: #fff;
+}

@@ -1,0 +1,1605 @@
+div.outBg {
+background:#fff;
+padding-top:27px;
+font-family:"Arial";
+position:relative;
+}
+.inBg {
+background:none;
+margin:0 auto;
+width:100%;
+padding-top:0;
+}
+.inBg center .float-box {
+display:none;
+}
+#headList {
+padding:0;
+margin:0 auto;
+overflow:visible;
+width:1226px;
+}
+.wrapper #headList {width:1000px;}
+#company_name {
+
+}
+#belowList {
+background:#f3f3f3;
+border:0 none;
+height:auto;
+margin:0;
+padding:75px 0 30px 0;
+width:100%;
+position:inherit;
+}
+div.mod-footer {
+background:#f3f3f3;
+border:0 none;
+height:auto;
+margin:0;
+padding:0;
+width:100%;
+}
+.analysis_foot {
+background:#f3f3f3;
+height:auto;
+margin:0;
+padding:0;
+width:100%;
+}
+div#floatwindow {
+top:350px;
+}
+.bodyCont {
+border:0 none;
+}
+#content {
+margin:0 auto;
+padding:0;
+width:1226px;
+overflow:hidden;
+position:relative;
+z-index:1;
+}
+.wrapper #content {
+width:1000px;
+}
+#content .bodyContTitle {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/51d10f42-ec36-4995-ba8d-8bf1e634bdd5.jpg);
+height:87px;
+line-height:87px;
+text-indent:0;
+margin:0 0 62px 0;
+padding:0;
+text-indent:0;
+}
+#content .bodyContTitle .fl {
+display:block;
+font-size:18px;
+color:#666;
+font-weight:normal;
+font-family:"微软雅黑";
+width:100%;
+text-align:center;
+text-transform:uppercase;
+}
+#content .bodyContTitle .fr {
+display:none;
+}
+#content1 {width:100% !important;margin:0;padding:0;float:none;max-width:inherit;}
+#content1 .bodyCont {margin:0 0 15px 0;}
+#content1 .bodyContContent {clear:both;height:auto;width:1000px;margin:0 auto;min-height:300px;}
+#content2 {
+display:none;
+float:right;
+margin:0;
+padding:0;
+position:relative;
+overflow:hidden;
+}
+#content3 {
+display:none;
+clear:both;
+margin:0;
+padding:0;
+float:none;
+overflow:hidden;
+}
+#topbar-v2 {}
+div.go-topbtn {height:29px;width:29px;background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/06/bc9dadb0-0ef1-453c-86e1-d458457c7820.jpg) no-repeat 0 0;right:1%;left:auto !important;z-index:1001;}
+.topbar-v2 .topbar-container {width:1120px;}
+.wrapper .topbar-v2 .topbar-container {width:1018px;}
+/*自定义1*/
+#user_defined1 {position:inherit;}
+#user_defined1 .bodyContContent {position:inherit;}
+.nav_menu {position:absolute;overflow:hidden;padding:0;width:100%;top:103px;z-index:10;margin:0;}
+.nav_menu .nav_bg {position:absolute;top:0;background:#fff;width:100%;height:100%;
+filter: alpha(opacity=66);
+-moz-opacity:0.66;
+opacity: 0.66;
+z-index:1;
+}
+.nav_menu .nav_xiala {width:1000px;margin:0 auto;overflow:hidden;position:relative;z-index: 2;}
+.nav_menu .nav_xiala ul {margin:0;padding:0;text-align:center;overflow:hidden;}
+.nav_menu .nav_xiala ul li {display:inline-block;width:auto;text-align:center;overflow:hidden;border-right:1px solid #333;margin:0;padding:0;}
+.nav_menu .nav_xiala ul li.nav_1_2 {border:0 none;}
+.nav_menu .nav_xiala ul li a {padding:53px 0 0 0;font-size:13px;color:#333;display: block;margin:0 30px;_margin:0 15px;line-height:30px;text-decoration:none;}
+.nav_menu .nav_xiala ul li a:hover {color:#009ed9;}
+.nav_menu .nav_xiala ul li.nav_1_1 a {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/07/1ef3340f-2b1e-450a-a08d-d4af9f85bb17.png) no-repeat center top;}
+.nav_menu .nav_xiala ul li.nav_1_1 a:hover {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/459d9fa0-cf29-4f8e-a8c7-a1e01cbca1e0.png) no-repeat center top;}
+.nav_menu .nav_xiala ul li.nav_1_2 a {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/07/7d52b02a-6f4b-4c3d-9809-2d9815121dd8.png) no-repeat center top;}
+.nav_menu .nav_xiala ul li.nav_1_2 a:hover {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/8c51a6de-9b26-4943-947a-65ee8884ff19.png) no-repeat center top;}
+.nav_menu .nav_2 {width:1000px;margin:0 auto;overflow:hidden;position:relative;z-index:2;}
+.nav_menu .nav_2 ul {margin:0;padding:0;}
+.nav_menu .nav_2 ul li {float:left;width:180px;}
+.nav_menu .nav_2 ul li a {color:#333;font-size:14px;line-height:30px;text-decoration:none;}
+.nav_menu .nav_2 ul li a:hover {color:#009ed9;}
+.nav_menu .nav_2 ul li li {width:100%;}
+.nav_menu .nav_2 ul li li a {font-size:12px;line-height:20px;}
+.nav_menu .nav_2 ul li.nav2_2 {width:280px;}
+.nav_menu .nav_3 ul li {border:0 none;}
+.nav_menu .nav_3 ul li a {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/07/b98a5a7c-0172-4161-9f34-758a5718d9b7.png) no-repeat center 20px;}
+.nav_menu .nav_3 ul li a:hover {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/5a830165-e0d7-4796-97c4-9466fc0e12a0.png) no-repeat center 20px;}
+.nav_menu .nav_1,
+.nav_menu .nav_2,
+.nav_menu .nav_3 {margin:21px auto;display:none;}
+/*自定义2*/
+.l-contact {background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/08/15cafd30-8262-445c-b56f-31fb962cd974.jpg) no-repeat 18px 4px;margin:50px 0 0 0;}
+.l-contact ul {margin:0 0 0 372px;padding:0;width:auto;}
+.l-contact li {font-size:18px;color:#666;line-height:35px;}
+.l-contact li h4 {color:#000;margin:0;padding:0;line-height:30px;font-weight:normal;}
+.l-contact li a {color:#666;}
+.l-contact li a:hover {color:#387cc5;}
+/*自定义3*/
+.foot_out {width:870px;margin:0 auto;}
+.foota {overflow:hidden;margin:0 0 50px 0;}
+.foota ul.foota_1 {float:left;display:none;}
+.foota ul.foota_1 a {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/e2f3cc0d-c147-4967-bb87-f6d9dc3da466.jpg) no-repeat 0 0;display:block;width:29px;height:29px;float:left;margin:0 5px 0 0;overflow:hidden;
+filter: alpha(opacity=80);
+-moz-opacity:0.8;
+opacity: 0.8;
+}
+.foota ul.foota_1 a:hover {
+filter: alpha(opacity=100);
+-moz-opacity:1;
+opacity: 1;
+}
+.foota ul.foota_1 a.linkb {background-position:-29px 0;}
+.foota ul.foota_1 a.linkc {background-position:-58px 0;}
+.foota ul.foota_1 a.linkd {background-position:-87px 0;}
+.foota ul.foota_1 a.linke {background-position:-116px 0;}
+.foota ul.foota_2 a {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/dfaf7465-fdc1-430c-b4f1-529065dce62b.gif) no-repeat 304px 10px;width:333px;line-height:33px;height:33px;border:1px solid #333;text-indent:19px;font-size:12px;color:#333;display:block;}
+.foota ul.foota_2 a:hover {text-decoration:none;border:1px solid #009ed9;color:#009ed9;background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/797dd409-9b36-455d-938c-03a7e5097058.gif) no-repeat 304px 10px;}
+.foota ul.foota_2 {float:right;}
+.footb {margin:0 0 100px 0;}
+.footb a {color:#333;font-size:12px;margin:0 15px 0 0;_margin:0 7px 0 0;line-height:20px;}
+.footb a:hover {color:#009ed9;text-decoration:none;}
+.footc {text-align:center;color:#333;}
+/*自定义4*/
+#user_defined4 .bodyContContent {width:1226px;margin:0 auto;}
+.wrapper #user_defined4 .bodyContContent {width:1000px;margin:0 auto;}
+#slidesa {
+background:#ececec;
+height:632px;
+width:100%;
+margin:0 auto;
+position:relative;
+z-index:0;
+}
+#slidesa .slides_containera {
+width:100%;
+height:628px;
+display:none;	
+position:relative;
+margin:0 auto;
+}
+#slidesa .slides_containera div {
+height:628px;
+width:100% !important;
+text-align:center;
+}
+#slidesa .slides_containera a {
+display:block;
+width:1000px;
+margin:0 auto;
+height:628px;
+}
+.qha {
+margin:0 auto;
+padding:0;
+width:1226px;
+height:4px;
+z-index:999;
+overflow:hidden;
+position:relative;
+}
+.qha li {
+float:left;
+margin:0;
+width:49%;
+list-style:none;
+}
+.qha li.qha_last {
+float:right;
+width:50%;
+}
+.qha li a {
+display:block;
+height:4px;
+line-height:4px;
+color:#fff;
+width:100%;
+text-indent:9999px;
+background:#ececec;
+float:left;
+overflow:hidden;
+}
+.qha li a:hover,
+.qha li.current a {
+background:#009ed9;
+}
+#slidesa .next,#slidesa .prev {
+display:none;
+height:53px;
+width:27px;
+position:absolute;
+overflow:hidden;
+top:300px;
+}
+#slidesa .prev {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/3ccb3d68-052c-4bfc-87aa-ac5e1db889b2.gif) no-repeat 0 0;
+left:5%;
+}
+#slidesa .prev:hover {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/3ccb3d68-052c-4bfc-87aa-ac5e1db889b2.gif) no-repeat 0 -53px;
+}
+#slidesa .next {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/3ccb3d68-052c-4bfc-87aa-ac5e1db889b2.gif) no-repeat -27px 0;
+right:5%;
+}
+#slidesa .next:hover {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/08/3ccb3d68-052c-4bfc-87aa-ac5e1db889b2.gif) no-repeat -27px -53px;
+}
+.bannera {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/4a219616-e5bd-4ace-addd-bd6a96a48a4b.jpg) no-repeat center top;
+}
+.bannerb {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/bf09732d-ba59-4c8d-a292-212f12736588.jpg) no-repeat center top;
+}
+.bannerc {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/41e40407-6937-41dc-9673-0024c6184807.jpg) no-repeat center top;
+}
+/*自定义6*/
+#user_defined6 {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2016/03/12/cfdbdc40-ced9-4d69-a7f5-1554e730be79.jpg) no-repeat center top;height:158px;}
+/*导航*/
+#top_nav {
+background:#fff;
+border:0 none;
+height:76px;
+margin:0;
+padding:0;
+width:100%;
+overflow:visible;
+position:relative;
+}
+#top_nav .clr {
+display:none;
+}
+#top_nav .headerMenuBottom {
+display:none;
+}
+#top_nav .headerMenuBorder {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/73285de4-bc54-47ea-9650-44e23e8e4a44.jpg) no-repeat left top;
+border:0 none;
+height:76px;
+margin:0 auto;
+padding:0;
+width:1101px;
+position:relative;
+}
+.wrapper #top_nav .headerMenuBorder {
+width:1000px;
+}
+#top_nav .headerMenuList {
+background:none;
+margin:0;
+padding:0;
+height:45px;
+width:auto;
+overflow:visible;
+position:absolute;
+left:26.4%;
+top:15px;
+z-index: 4;
+}
+#top_nav .headerMenuList ul {
+background:none;
+border:0 none;
+margin:0;
+padding:0;
+overflow:visible;
+width:auto;
+}
+#top_nav .headerMenuList li {
+background:none;
+border:0 none;
+height:45px;
+margin:0;
+padding:0;
+width:auto;
+overflow:visible;
+}
+#top_nav .headerMenuList a {
+color:#333;
+border:0 none;
+float:left;
+height:45px;
+line-height:45px;
+font-size:12px;
+font-weight:normal;
+padding:0;
+margin:0 25px;
+width:auto;
+}
+#top_nav .headerMenuList a:hover {
+background:none;
+border-bottom:1px solid #009ed9;
+text-decoration:none;
+}
+#top_nav .headerMenuLiCheck {
+background:none;
+border:0 none;
+height:45px;
+line-height:45px;
+margin:0;
+}
+#top_nav .headerMenuLiCheck a.topicLink {
+background:none;
+border-bottom:1px solid #009ed9;
+}
+#top_nav .headerMenuLi {
+height:45px;
+line-height:45px;
+padding:0;
+}
+.submenu li,
+#top_nav #menu-search,
+#top_nav #menu-index {
+display:none;
+}
+#top_nav .headerMenuBorder .home {display:block;width:153px;height:76px;position:absolute;left:0;top:0;}
+#top_nav .headerMenuBorder .top-search {background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/977ea548-4438-4c04-9e52-5bd79b913710.jpg) no-repeat 0 0;width:153px;height:76px;position:absolute;right:0;top:0;}
+#top_nav .headerMenuBorder .top-search input {background:none;border:0 none;position:absolute;outline:0;height:31px;top:21px;}
+#top_nav .headerMenuBorder .top-search input.searcha {width:22px;right:0;cursor: pointer;}
+#top_nav .headerMenuBorder .top-search input.searchb {width:131px;left:0;}
+/*广告产品*/
+#content2 #main_ads_products {margin:0;padding:0;border-bottom:0 none;}
+#content2 #main_ads_products .bodyContContent {margin:0;padding:0;background:url(http://img.abbcc.net/upload/f/f2/fjgm/picture/2015/09/18/d5a03c23-b288-43a7-8279-1c0d4d347bb3.jpg) no-repeat 0 0;height:209px;}
+#content2 #main_ads_products .jcarousel-container {margin:14px 0 0 137px;padding:0 2px;width:182px;}
+#content2 #main_ads_products .jcarousel-clip ul {width:182px;height:auto;}
+#content2 #main_ads_products .jcarousel-clip li {width:182px;height:auto;margin:0 5px 0 0;padding:0;}
+#content2 #main_ads_products .jcarousel-clip li a {display:block;width:182px;height:auto;overflow:hidden;}
+#content2 #main_ads_products .jcarousel-clip li img {width:182px;}
+#content2 #main_ads_products .ads_name,
+#content2 #main_ads_products .ads_prodtype {display:none;}
+#content2 #main_ads_products .jcarousel-prev {background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/10/99ff761e-45fb-4eaf-bf22-05ca15a98e6d.gif) no-repeat 0 0 #ccc;height:36px;width:36px;display:none;}
+#content2 #main_ads_products .jcarousel-next {background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/10/99ff761e-45fb-4eaf-bf22-05ca15a98e6d.gif) no-repeat -36px 0 #ccc;height:36px;width:36px;display:none;}
+/*产品分类*/
+#category_nav {background:#f3f3f3;height:58px;overflow:visible;margin:0;}
+#headList #category_nav .ygtvdepth0 .l-pro-a a {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/0fa63a01-8582-4758-b43b-2f6d18a7b339.gif) no-repeat bottom #009ed9 !important;
+color:#fff !important;
+}
+#headList #category_nav .ygtvdepth1 .l-pro-a a {
+color:#00b9fe !important;
+}
+#category_nav .bodyContTitle {display:none;}
+#category_nav .bodyContContent {
+width:1226px;
+margin:0 auto;
+padding:0;
+overflow:hidden;
+}
+.wrapper #category_nav .bodyContContent {width:1000px;}
+#category_nav .bodyContContent .treeDiv {
+margin:0;
+padding:0;
+width:100%;
+position: relative;
+}
+#category_nav .bodyContContent .treeDiv .list-1 {width:20%;float:left;}
+#category_nav .bodyContContent .ygtvitem1 {
+background:none;
+border:0 none;
+clear:none;
+margin:0;
+padding:0;
+width:100%;
+float:left;
+overflow:visible;
+}
+#category_nav .bodyContContent .ygtvtable {
+clear:both;
+line-height:58px;
+width:100%;
+}
+#category_nav .ygtvdepth0 .ygtvtp,
+#category_nav .ygtvdepth0 .ygtvtm,
+#category_nav .ygtvdepth0 .ygtvlph,
+#category_nav .ygtvlmh,
+#category_nav .ygtvlmhh,
+#category_nav .ygtvdepth0 .ygtvtph,
+#category_nav .ygtvtphh {
+display:none;
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#category_nav .ygtvdepth1 .ygtvlp,
+#category_nav .ygtvdepth1 .ygtvlm,
+#category_nav .ygtvdepth2 .ygtvtmh,
+#category_nav .ygtvdepth2 .ygtvtp,
+#category_nav .ygtvdepth2 .ygtvtph,
+#category_nav .ygtvdepth2 .ygtvtm,
+#category_nav .ygtvdepth1 .ygtvtmh,
+#category_nav .ygtvdepth1 .ygtvtm,
+#category_nav .ygtvdepth1 .ygtvtph,
+#category_nav .ygtvdepth1 .ygtvtp {
+display:none;
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#category_nav .ygtvtmh,
+#category_nav .ygtvtmhh {
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#category_nav .ygtvlph,
+#category_nav .ygtvlphh {
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#category_nav .ygtvln {
+background:none;
+}
+#category_nav .ygtvlp,
+#category_nav .ygtvdepth0 .ygtvlm,
+#category_nav .ygtvtn {
+background:none;
+display:none;
+}
+#category_nav .ygtvdepthcell {
+background:none;
+}
+#category_nav .ygtvfocus {
+padding:0;
+}
+#category_nav .ygtvtable-div1 {width:100%;float:left;}
+#category_nav .ygtvdepth0 {
+margin:0;
+}
+#category_nav .ygtvdepth0 .ygtvcontent a {
+background:#f3f3f3 !important;
+border-bottom:0 none;
+display:block;
+color:#999;
+font-size:18px;
+height:58px;
+line-height:58px;
+width:100%;
+text-indent:0;
+text-align:center;
+margin:0;
+overflow:hidden;
+}
+#category_nav .ygtvdepth0 .ygtvcontent a:hover {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/0fa63a01-8582-4758-b43b-2f6d18a7b339.gif) no-repeat bottom #009ed9 !important;
+color:#fff !important;
+}
+#category_nav .children2 {width:100%;float:none;margin:0;background:#fff;width:1226px;text-align:center;overflow:hidden;position:absolute;left:0;top:58px;}
+#category_nav .children2 .ygtvitem2 {width:auto;float:none;display:inline-block;margin:0 3px;}
+#category_nav .ygtvchildren {
+margin:0;
+}
+#category_nav .ygtvdepth1 .ygtvcontent a {
+background:none !important;
+border-bottom:0 none;
+display:block;
+color:#333;
+font-size:14px;
+height:58px;
+line-height:58px;
+width:auto;
+text-indent:0;
+margin:0;
+overflow:hidden;
+}
+#category_nav .ygtvdepth1 .ygtvcontent a:hover {
+color:#00b9fe !important;
+}
+#category_nav .ygtvdepth1 .ygtvdepthcell,
+#category_nav .ygtvdepth1 .ygtvln {
+display:none;
+}
+#category_nav  .ygtvitem2 .ygtvdepth1 .ygtvcontent a {
+color:#333;
+}
+#category_nav .ygtvitem3 .ygtvdepth1 .ygtvcontent a {
+color:#333;
+}
+#category_nav .ygtvlp {
+
+}
+#category_nav .more_item_btn {border:1px solid #387cc5;width:100px;font-size:14px;font-family:"微软雅黑";line-height:30px;cursor: pointer;color: #387cc5;margin:5px auto 0 auto;text-align:center;}
+/*新闻分类*/
+#content2 #sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .l-pro-a a {
+background:url(http://img.jihui88.com/upload/a/a5/aydz/picture/2015/05/11/c7ee55e4-1946-4a9e-98f2-18ad8edbfa83.jpg) no-repeat 0 0 !important;
+color:#ff73a2 !important;
+}
+#content2 #sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .l-pro-a a {
+background:none !important;
+color:#ff73a2 !important;
+}
+#sIDE_CATEGORY_STATIC_NEWS .bodyContContent {
+margin:0;
+padding:0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .bodyContContent .treeDiv {
+margin:0;
+padding:0;
+width:100%;
+}
+#sIDE_CATEGORY_STATIC_NEWS .bodyContContent .ygtvitem1 {
+background:none;
+margin:0;
+padding:0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .bodyContContent .ygtvtable {
+clear:both;
+line-height:33px;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvtp,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvtm,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvlph,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlmh,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlmhh,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvtph,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvtphh {
+display:none;
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvlp,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvlm,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth2 .ygtvtmh,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth2 .ygtvtp,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth2 .ygtvtph,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth2 .ygtvtm,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvtmh,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvtm,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvtph,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvtp {
+display:none;
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvtmh,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvtmhh {
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlph,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlphh {
+background:url(http://img.abbcc.net/upload/y/y5/yxts/picture/2013/11/19/e2ab20d0-2942-4c2e-bf71-c2c3b8f2f191.jpg) no-repeat 10px 20px;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvln {
+background:none;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlp,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvlm,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvtn {
+background:none;
+display:none;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepthcell {
+background:none;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvfocus {
+padding:0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 {
+margin:0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvcontent a {
+background:url(http://img.jihui88.com/upload/a/a5/aydz/picture/2015/05/11/c7ee55e4-1946-4a9e-98f2-18ad8edbfa83.jpg) no-repeat 0 -33px !important;
+border-bottom:1px dashed #ddd;
+display:block;
+color:#a0a0a0;
+font-size:12px;
+height:33px;
+line-height:33px;
+width:230px;
+text-indent:42px;
+margin:0 0 0 3px;
+overflow:hidden;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth0 .ygtvcontent a:hover {
+background:url(http://img.jihui88.com/upload/a/a5/aydz/picture/2015/05/11/c7ee55e4-1946-4a9e-98f2-18ad8edbfa83.jpg) no-repeat 0 0 !important;
+color:#ff73a2 !important;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvchildren {
+margin:0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvcontent a {
+background:none !important;
+border-bottom:1px dashed #ddd;
+display:block;
+color:#a0a0a0;
+font-size:12px;
+height:33px;
+line-height:33px;
+width:230px;
+text-indent:42px;
+margin:0 0 0 3px;
+overflow:hidden;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvcontent a:hover {
+background:none !important;
+color:#ff73a2 !important;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvdepthcell,
+#sIDE_CATEGORY_STATIC_NEWS .ygtvdepth1 .ygtvln {
+display:none;
+}
+#sIDE_CATEGORY_STATIC_NEWS  .ygtvitem2 .ygtvdepth1 .ygtvcontent a {
+color:#a0a0a0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvitem3 .ygtvdepth1 .ygtvcontent a {
+color:#a0a0a0;
+}
+#sIDE_CATEGORY_STATIC_NEWS .ygtvlp {
+
+}
+/*简介*/
+#content1 #companyIntro {margin:0 0 42px 0;}
+#companyIntro .bodyContContent {
+padding:0;
+}
+#companyIntro .bodyContContent .tal {
+margin:0;
+padding:0;
+width:100%;
+}
+#companyIntro .bodyContContent .jj {margin:20px 0;}
+#companyIntro .bodyContContent .jj p {margin:0;padding:0;text-align:justify;color:#666;font-size:15px;line-height:30px;}
+/*新闻*/
+.wide_news .bodyContContent {
+padding:0;
+}
+.wide_news .bodyContContent .tal {
+margin:0;
+padding:0;
+overflow:hidden;
+}
+.wide_news dl {
+border-bottom:1px dotted #ededee;
+color:#000;
+clear:both;
+font-size:14px;
+*height:35px;
+line-height:35px;
+*line-height:35px;
+margin:0;
+padding:0;
+}
+.wide_news dl a {
+color:#666;
+font-size:14px;
+}
+.wide_news dl a:hover {
+color:#0ea3fe;
+text-decoration:none;
+}
+.wide_news dt {
+width:800px;
+overflow:hidden;
+text-overflow:ellipsis;
+text-indent:0;
+}
+.wide_news .news_addTime {
+width:78px;
+overflow:hidden;
+float:right;
+}
+.wide_news .news_origin {
+display:none;
+}
+/*分类新闻*/
+#content1 #category_news_page .bodyContTitle {margin:0 0 14px 0;}
+#content1 #category_news_page .bodyContContent {
+margin:0;
+padding:0;
+}
+#content1 #category_news_page .bodyContContent .tal {
+margin:0;
+padding:0;
+}
+#content1 #category_news_page dl {
+border-bottom:1px dotted #ededee;
+color:#000;
+clear:both;
+font-size:14px;
+*height:31px;
+line-height:31px;
+*line-height:31px;
+margin:0;
+padding:0;
+}
+#content1 #category_news_page dl a {
+color:#000;
+font-size:14px;
+}
+#content1 #category_news_page dl a:hover {
+color:#009ed9;
+text-decoration:none;
+}
+#content1 #category_news_page dt {
+width:800px;
+overflow:hidden;
+text-overflow:ellipsis;
+text-indent:5px;
+}
+#content1 #category_news_page .news_addTime {
+width:78px;
+overflow:hidden;
+float:right;
+}
+#content1 #category_news_page .news_origin {
+display:none;
+}
+#content1 .narrow_category_news_page299065,
+#content1 .narrow_category_news_page298696 {margin:36px 0 }
+#content1 .narrow_category_news_page299065 .bodyContTitle,
+#content1 .narrow_category_news_page298696 .bodyContTitle {display:none;}
+#content1 .narrow_category_news_page299065 .bodyContContent,
+#content1 .narrow_category_news_page298696 .bodyContContent {margin:0;padding:0;}
+#content1 .narrow_category_news_page299065 .bodyContContent .tal,
+#content1 .narrow_category_news_page298696 .bodyContContent .tal {padding:0 5px !important;}
+#content1 .narrow_category_news_page299065 .bodyContContent .tal .listNews,
+#content1 .narrow_category_news_page298696 .bodyContContent .tal .listNews {margin:0;width:auto;overflow:hidden;}
+#content1 .narrow_category_news_page299065 .bodyContContent .tal li,
+#content1 .narrow_category_news_page298696 .bodyContContent .tal li {width:245px;height:275px;background:none;float:left;margin:0;border:1px solid #efefef;}
+#content1 .narrow_category_news_page299065 .bodyContContent .tal li .img_box,
+#content1 .narrow_category_news_page298696 .bodyContContent .tal li .img_box {position:relative;margin:0 10px;_margin:0 5px;padding:10px 0 0 0;}
+#content1 .narrow_category_news_page299065 .showSmallPic,
+#content1 .narrow_category_news_page298696 .showSmallPic {height:226px;width:226px;display:block;overflow:hidden;float:none;margin:0;}
+#content1 .narrow_category_news_page299065 .showSmallPic img,
+#content1 .narrow_category_news_page298696 .showSmallPic img {height:226px;max-width:226px;width:auto;_width:226px;}
+#content1 .narrow_category_news_page299065 .showSmallPic img:hover,
+#content1 .narrow_category_news_page298696 .showSmallPic img:hover {
+animation:flash_pro2 5s;
+-moz-animation:myfirstflash_pro2 5s; /* Firefox */
+-webkit-animation:flash_pro2 5s; /* Safari and Chrome */
+-o-animation:flash_pro2 5s; /* Opera */
+}
+#content1 .narrow_category_news_page299065 .h_1,
+#content1 .narrow_category_news_page298696 .h_1 {margin:0 auto;float:none;display:block;width:226px;height:39px;overflow:hidden;}
+#content1 .narrow_category_news_page299065 .h_1 a,
+#content1 .narrow_category_news_page298696 .h_1 a {color:#000;font-size:14px;line-height:39px;height:39px;font-weight:normal;}
+#content1 .narrow_category_news_page299065 .h_1 a:hover,
+#content1 .narrow_category_news_page298696 .h_1 a:hover {text-decoration:none;color:#387cc5;}
+#content1 .narrow_category_news_page299065 .p_1,
+#content1 .narrow_category_news_page298696 .p_1 {display:none;}
+/*精品*/
+#competitiveProducts{background:#fff;margin:0;}
+#competitiveProducts .bodyContTitle {width:1000px;margin:0 auto 28px auto;
+background: none;
+border-bottom: 1px solid #ededee;
+height: 50px;
+line-height: 50px;
+text-indent: 0;
+padding: 0;
+text-indent: 0;
+}
+#competitiveProducts .bodyContTitle .fl {
+font-size: 18px;
+font-family: "微软雅黑","PingHei","Lucida Grande","Lucida Sans Unicode";
+color: #000;
+font-weight: normal;
+}
+#competitiveProducts .bodyContTitle .fr {
+background: url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/07/1edd140d-3b4d-48fa-b440-c617aeef67d2.jpg) no-repeat right;
+color: #000;
+line-height: 60px;
+padding: 0 20px 0 0;
+float: right;
+font-weight: bold;
+}
+#competitiveProducts .bodyContContent {
+width:1000px;
+margin:0 auto;
+padding:0;
+}
+#competitiveProducts .glitzBody {
+height:405px;
+padding:0;
+margin:0;
+overflow:hidden;
+}
+#competitiveProducts .glitzBody ul {
+margin:0;
+}
+#competitiveProducts .glitzBody li {
+background:#fff;
+border:4px solid #fff;
+height:auto;
+margin:0;
+padding:0 11px 58px 11px;
+width:220px;
+overflow:hidden;
+position:relative;
+cursor:pointer;
+z-index:1;
+}
+#competitiveProducts .glitzBody li.pro_bg {
+border:4px solid #f3f3f3;
+z-index:2;
+}
+#competitiveProducts .glitzBody li .red {color:#000;}
+#competitiveProducts .glitzPic {
+border:0 none;
+padding:0;
+height:220px;
+width:220px;
+margin:0;
+overflow:hidden;
+}
+#competitiveProducts .glitzPic a {
+background:none;
+border:0 none;
+height:220px;
+width:220px;
+overflow:hidden;
+}
+#competitiveProducts .glitzPic a:hover {
+animation:flash_pro2 5s;
+-moz-animation:myfirstflash_pro2 5s; /* Firefox */
+-webkit-animation:flash_pro2 5s; /* Safari and Chrome */
+-o-animation:flash_pro2 5s; /* Opera */
+}
+@keyframes flash_pro2
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-moz-keyframes flash_pro2 /* Firefox */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-webkit-keyframes flash_pro2 /* Safari and Chrome */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-o-keyframes flash_pro2 /* Opera */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+#competitiveProducts .glitzPic img {
+border:0 none;
+height:220px;
+max-width:220px;
+margin:0;
+vertical-align:top;
+}
+#competitiveProducts .glitzItem .txt {
+border-bottom:1px solid #efefef;
+float:left;
+height:auto;
+width:220px;
+font-family:"微软雅黑","PingHei","Lucida Grande","Lucida Sans Unicode";
+margin:30px 0 0 0;
+padding:0 0 18px 0;
+text-align:left;
+overflow:hidden;
+max-height:60px;
+}
+#competitiveProducts .glitzItem .pro_name {
+color:#000;
+font-size:14px;
+float:left;
+line-height:20px;
+height:40px;
+text-align:left;
+width:auto;
+display:block;
+overflow:hidden;
+}
+#competitiveProducts .glitzItem .pro_name:hover {color:#387cc5;}
+#competitiveProducts .glitzItem .pro_type {
+background:#ff4900;
+color:#fff;
+font-size:14px;
+float:left;
+line-height:26px;
+height:26px;
+text-align:center;
+width:220px;
+position:absolute;
+bottom:16px;
+left:11px;
+display:none;
+}
+#competitiveProducts .glitzItem .pro_type:hover {
+background:#ff3600;
+}
+#competitiveProducts .pro_bg .pro_type {
+display:block;
+}
+#competitiveProducts .glitzItem .txt .piece_div {font-size:14px;line-height:30px;clear:both;}
+#competitiveProducts .glitzItem .txt .piece_div .marketPrice {display:none;}
+#competitiveProducts .glitzItem .txt .piece_div .rmbfh {display:none;}
+#competitiveProducts .glitzItem .txt .piece_div .price {float:left;color:#000;font-size:14px;}
+#competitiveProducts .glitzItem .txt .piece_div .price .yuan {float:left;}
+/*产品*/
+#content1 #products .bodyContTitle,
+#content1 #products .key_tip {display:none;}
+#products .bodyContContent {
+padding:0;
+}
+#products .glitzBody {
+padding:0;
+margin:0;
+overflow:hidden;
+}
+#products .glitzBody ul {
+margin:0 -20px 0 0;
+_margin:0 -10px 0 0;
+}
+#products .glitzBody li {
+background:#fff;
+height:auto;
+margin:0 20px 40px 0;
+_margin:0 10px 40px 0;
+padding:0;
+width:313px;
+overflow:hidden;
+position:relative;
+cursor:pointer;
+z-index:1;
+}
+#products .glitzBody li .red {color:#000;}
+#products .glitzPic {
+border:0 none;
+padding:0;
+height:313px;
+width:313px;
+margin:0;
+overflow:hidden;
+}
+#products .glitzPic a {
+background:none;
+border:0 none;
+height:313px;
+width:313px;
+overflow:hidden;
+}
+#products .glitzPic a:hover {
+animation:flash_pro2 5s;
+-moz-animation:myfirstflash_pro2 5s; /* Firefox */
+-webkit-animation:flash_pro2 5s; /* Safari and Chrome */
+-o-animation:flash_pro2 5s; /* Opera */
+}
+@keyframes flash_pro2
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-moz-keyframes flash_pro2 /* Firefox */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-webkit-keyframes flash_pro2 /* Safari and Chrome */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+@-o-keyframes flash_pro2 /* Opera */
+{
+from {
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);}
+to {
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+-ms-transform:scale(1.1);}
+}
+#products .glitzPic img {
+border:0 none;
+height:313px;
+max-width:313px;
+margin:0;
+vertical-align:top;
+}
+#products .glitzItem .txt {
+float:left;
+height:auto;
+width:313px;
+margin:0;
+padding:0;
+text-align:center;
+overflow:hidden;
+max-height:60px;
+}
+#products .glitzItem .p_name {
+color:#999;
+font-size:14px;
+float:left;
+line-height:20px;
+max-height:40px;
+text-align:center;
+width:100%;
+padding:5px 0;
+display:block;
+overflow:hidden;
+}
+#products .glitzItem .p_name:hover {color:#009ed9;background:#f3f3f3;}
+#products .glitzItem .p_type_div {display:none;}
+
+.pagination {
+color:#000;
+overflow:hidden;
+margin:25px 0 0 0;
+}
+#products .pagination {
+margin:0;
+}
+.pagination .fl {
+float:right;
+margin:0;
+}
+.pagination .danaiPageDes {
+line-height:36px;
+margin:0 20px 0 0;
+}
+.danaiPageCurrent {
+background:#009ed9;
+border:0 none;
+color:#fff;
+font-size:12px;
+line-height:17px;
+height:17px;
+width:17px;
+margin:0 5px;
+text-decoration:none;
+-moz-border-radius: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+-moz-border-radius-bottomleft: 8px;
+-moz-border-radius-bottomright: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+}
+a.danaiPageNum {
+background:#fff;
+border:0 none;
+color:#666;
+font-size:12px;
+height:17px;
+line-height:17px;
+width:17px;
+margin:0 5px;
+-moz-border-radius: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+-moz-border-radius-bottomleft: 8px;
+-moz-border-radius-bottomright: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+}
+a.danaiPageNum:hover {
+background:#009ed9;
+border:0 none;
+color:#fff;
+}
+.pagination a.danaiPageUp,
+.pagination a.danaiPageUp:hover  {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/47f38de2-90d9-445a-ac0f-27382f8e0908.jpg) no-repeat 0 0;
+border:0 none;
+height:17px;
+line-height:500px;
+width:17px;
+margin:0 5px;
+padding:0;
+overflow:hidden;
+}
+.pagination a.danaiPageDown,
+.pagination a.danaiPageDown:hover {
+background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/47f38de2-90d9-445a-ac0f-27382f8e0908.jpg) no-repeat -17px 0;
+border:0 none;
+height:17px;
+line-height:500px;
+width:17px;
+margin:0 5px;
+padding:0;
+overflow:hidden;
+}
+.danaiPageDes .category_submit {
+background:#fff;
+border:0 none;
+color:#666;
+cursor:pointer;
+font-size:12px;
+line-height:17px;
+margin:0 0 0 5px;
+padding:0;
+height:17px;
+width:17px;
+text-align:center;
+-moz-border-radius: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+-moz-border-radius-bottomleft: 8px;
+-moz-border-radius-bottomright: 8px;
+-khtml-border-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+}
+/*面包屑导航*/
+#content .hunk_breadcrumb_navigation {
+background:none;
+border:0 none;
+height:48px;
+line-height:48px;
+margin:92px auto -140px auto;
+padding:0;
+overflow:hidden;
+z-index:10;
+position:relative;
+width:1000px;
+}
+.hunk_breadcrumb_navigation .topbanerCont {
+width:100%;
+margin:0;
+}
+.hunk_breadcrumb_navigation #hunk_breadcrumb_navigation {
+background:none;
+margin:0;
+float:left;
+padding:0;
+display:inline;
+width:auto;
+text-transform:uppercase;
+}
+.bodyCont .topbanerCont {
+color:#666;
+height:48px;
+line-height:48px;
+}
+#hunk_breadcrumb_navigation a {
+color:#666;
+font-size:12px;
+text-decoration:none;
+}
+#hunk_breadcrumb_navigation a:hover {
+color:#009ed9;
+}
+.hunk_breadcrumb_navigation .txt_j_15,.hunk_breadcrumb_navigation .txt_j_8,.hunk_breadcrumb_navigation .txt_j_9,.hunk_breadcrumb_navigation .txt_j5,.hunk_breadcrumb_navigation .txt_j_2,.hunk_breadcrumb_navigation .txt_j_7,.hunk_breadcrumb_navigation .txt_j_11,.hunk_breadcrumb_navigation .txt_j_12,.hunk_breadcrumb_navigation .txt_m {margin:0 15px;padding:3px 7px;background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/05/f444da8a-7dbc-445c-bc6e-6202fd5974d4.jpg) no-repeat 0 0;text-indent:999px;}
+#headList .hunk_breadcrumb_navigation .topicLink span,
+#headList .hunk_breadcrumb_navigation .topicLink br,
+#headList .hunk_breadcrumb_navigation .txt_b,
+#headList .hunk_breadcrumb_navigation .txt_m {
+display:none;
+}
+/*在线询盘*/
+#inquiry_column .caigou_tab .tr {
+color:#727272;
+padding:10px 0;
+}
+#inquiry_column .caigou_tab .tr .red_x {
+color:#f00;
+}
+#inquiry_column .text {background:none;width:226px;height:23px;line-height:23px;border-radius:0;border:1px solid #e4e4e4;margin:0;padding:0;box-shadow:0 0 0 rgba(0,0,0,0) inset;}
+#inquiry_column .textarea {width:353px;height:84px;}
+#inquiry_column .ly_txt {font-size:12px;line-height:23px;margin:0 0 0 14px;color:#727272;}
+#inquiry_column .inquiry_content .tr {padding:0;vertical-align: top;}
+#inquiry_column .inquiry_submit .btn_submit,
+#inquiry_column .inquiry_submit .btn_reset {
+border:0 none;
+width:74px;
+height:26px;
+text-align:center;
+margin:0;
+padding:0;
+font-size:16px;
+font-family:"微软雅黑","PingHei","Lucida Grande","Lucida Sans Unicode";
+font-weight:normal;
+color:#fff;
+}
+#inquiry_column .inquiry_submit .btn_submit {background:#3aab35;}
+#inquiry_column .inquiry_submit .btn_reset {display:none;}
+/*证书*/
+#cert .bodyContContent {margin:0;padding:0;}
+#cert .bodyContContent .tal {
+color:#fff;
+margin: 0 -8px 0 0;
+overflow:hidden;
+}
+#cert .certUl {
+border-bottom:0 none;
+}
+#cert .certUl_first{
+display:none;
+}
+#cert .tal ul {
+float:left;
+margin:0 4px 0 0;
+width:auto;
+height:190px;
+padding:0;
+overflow:hidden;
+}
+#cert .tal ul li {
+float:none;
+width:245px;
+margin:0 !important;
+clear:both;
+}
+#cert .tal .pic {
+height:160px;
+overflow:hidden;
+width:100%;
+}
+#cert .tal .pic a {
+height:160px;
+display:block;
+width:245px;
+text-align:center;
+overflow:hidden;
+}
+#cert .tal .pic img {
+vertical-align:top;
+max-width:245px;
+height:160px;
+margin:0 auto;
+}
+#cert .mid a {color:#9f9f9f;font-size:14px;line-height:30px;}
+#cert .mid a:hover {color:#009ed9;}
+#cert .organize {display:none;}
+/*地图*/
+#main_company_location .bodyContTitle {
+display:none;
+}
+/*友情链接*/
+#side_link .bodyContTitle {
+background:url(http://img.abbcc.net/upload/x/x2/xfya/picture/2013/12/18/dd404214-97ff-4e75-86a8-05a4c02d45f8.jpg) no-repeat left;
+text-indent:61px;
+}
+#side_link .friendLinkLi {
+margin:0 5px 0 0;
+padding:0;
+float:left;
+}
+#side_link .friendLinkLi a {
+color:#5b5b5b;
+}
+#side_link .friendLinkLi a:hover {
+color:#b0000e;
+}
+/*浏览过的产品*/
+.narrow_history_products {
+max-height:206px;
+}
+.narrow_history_products .bodyContTitle .clean-history a {
+background:url(http://img.en.easthardware.net/upload/w/w1/weia/picture/2014/06/07/931b534f-279a-41ee-9d5d-e7f7c791dd32.jpg) no-repeat 0 0;
+color:#fff;
+display:block;
+float:right;
+font-size:12px;
+height:27px;
+line-height:27px;
+width:63px;
+text-align:center;
+}
+.narrow_history_products .bodyContTitle .clean-history a:hover {
+color:#000;
+}
+.narrow_history_products .bodyContContent {
+clear:both;
+max-height:179px;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+.narrow_history_products .glitzBody li {
+float:left;
+width:142px;
+}
+.narrow_history_products .pic {
+float:left;
+}
+.narrow_history_products .pic img {
+border:1px solid #999;
+height:140px;
+width:140px;
+}
+.narrow_history_products .desc {
+float:left;
+width:142px;
+}
+.narrow_history_products .desc p {
+font-size:12px;
+line-height:23px;
+margin:0;
+padding:0;
+}
+/*留言*/
+#message .bodyContTitle {margin:0 0 20px 0;}
+#message .bodyContTitle .fr {display:none;}
+#message .sendtd {color:#727272;font-size:14px;}
+#content1 #message .bodyContContent .leaveWord input.sendBtn {
+width: 138px;
+height: 39px;
+background: #009ed9;
+border: 0 none;
+text-align: center;
+font-size: 18px;
+font-weight: normal;
+padding: 0;
+color: #fff;
+letter-spacing: 2px;
+cursor: pointer;
+}
+#content1 #message .msg-tr-intro {display:none;}
+#content1 #message .sendtd {vertical-align: top;font-size:18px;}
+#content1 #message .sendcont input {width:60%;height:30px;line-height:30px;}
+#content1 #message .msg-tr-vercode .sendcont input {width:auto;}
+/*同类产品*/
+#content2 #relatedProducts {width:159px;margin:7px auto 0 auto;}
+#content2 #relatedProducts .bodyContContent {
+width:100%;
+margin:0;
+padding:0;
+}
+#content2 #relatedProducts .glitzBody {
+padding:0;
+margin:0;
+overflow:hidden;
+height:600px;
+}
+#content2 #relatedProducts .glitzBody ul {
+margin:0;
+}
+#content2 #relatedProducts .glitzBody li {
+height:auto;
+margin:0 auto 2px auto !important;
+padding:0;
+width:159px;
+overflow:hidden;
+}
+#content2 #relatedProducts .glitzPic1 {
+border:0 none;
+padding:0;
+height:159px;
+width:159px;
+margin:0;
+overflow:hidden;
+}
+#content2 #relatedProducts .glitzPic1 a {
+background:none;
+border:0 none;
+height:159px;
+width:159px;
+overflow:hidden;
+}
+#content2 #relatedProducts .glitzPic1 a:hover {
+filter: alpha(opacity=80);
+-moz-opacity:0.8;
+opacity: 0.8;
+}
+#content2 #relatedProducts .glitzPic1 img {
+border:1px solid #e8e8e8;
+width:157px;
+height:auto;
+margin:0;
+vertical-align:top;
+}
+#content2 #relatedProducts .glitzItem1 .txt,
+#content2 #relatedProducts .glitzItem1 .txt .subtxt {
+float:left;
+height:auto;
+width:159px;
+margin:0;
+padding:0;
+text-align:left;
+overflow:hidden;
+}
+#content2 #relatedProducts .glitzItem1 .txt .p_name_div {max-height:40px;overflow:hidden;}
+#content2 #relatedProducts .glitzItem1 .p_name {
+color:#ff4400;
+font-size:12px;
+float:left;
+line-height:20px;
+height:auto;
+text-align:center;
+width:100%;
+display:block;
+text-decoration:none !important;
+}
+#content2 #relatedProducts .glitzItem1 .p_type {display:none;}
+#content2 #relatedProducts .glitzItem1 .txt .piece_div {font-size:12px;line-height:20px;text-align:center;color:#ff4400;}
+#content2 #relatedProducts .glitzItem1 .txt .piece_div .marketPrice {display:none;}
+#content2 #relatedProducts .glitzItem1 .txt .piece_div .rmbfh {display:none;}
+
+/*技术实力*/
+#technic .bodyContContent {padding:14px 0 0 0;}
+/*相册*/
+.wide_album .pro_category,.wide_album .mt18px {display:none;}
+.wide_album .albums-list ul {overflow:hidden;margin:0 -20px 0 0;}
+.wide_album .albums-list li {background:none;padding:0;margin:0 11px 0 0;_margin:0 5px 0 0;width:236px;overflow:hidden;height:216px;}
+.wide_album .albums-list li .albumCover {width:236px;height:182px;overflow:hidden;margin:0;padding:0;vertical-align: top;}
+.wide_album .albums-list li a.draft_no_link {display:block;height:180px;width:236px;border-bottom:2px solid #b9b9b9;margin:0;padding:0;vertical-align: top;}
+.wide_album .albums-list li img {height:178px;width:234px;border:1px solid #ebebeb;margin:0 !important;}
+.wide_album .albums-list li .textBox {margin:0;padding:0;width:236px;height:34px;overflow:hidden;}
+.wide_album .albums-list li .textBox a {color:#9f9f9f;line-height:34px;font-size:14px;}
+.wide_album .albums-list li .textBox a:hover {color:#009ed9;text-decoration:none;}
+/*相册详细页*/
+#content div#container {position:relative;margin:0;padding:0 0 220px 0;}
+#content1 .detail h1,
+#content1 .detail #controls .ss-controls, 
+#container #thumbs .top,
+#container #caption {display:none;}
+#container #thumbs {width:100% !important;margin:0;padding:0;position:absolute;left:0;bottom:0;z-index:5;height:222px;}
+#content div#container ul.thumbs {height:168px;overflow:hidden;}
+#content div#container ul.thumbs li {margin:0 5px 5px 0;}
+#content div#container ul.thumbs img {width:auto;}
+#content div#container div.slideshow-container {height:auto;overflow:hidden;position:relative;z-index:1;margin:0 0 10px 0;}
+#content div#container div.slideshow a.advance-link {line-height:20px;height:auto;width:100%;display:block;}
+div.slideshow {height:auto;overflow:hidden;}
+div.slideshow span.image-wrapper {width:100%;position:relative !important;}
+div.slideshow img {width:auto;max-width:1000px;max-height:700px;}
+#content1 div.controls {height:auto;margin:0;padding:0;}
+div#gallery .controls .prev,
+div#gallery .controls .next {display:none;margin:0;padding:0;position:absolute;height:65px;width:35px;top:28%;z-index:2;text-indent:999px;overflow:hidden;}
+div#gallery .controls .prev {background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/06/393cf857-6bb0-47bd-a6b9-aeedb144c940.gif) no-repeat 4px 6px #fff;left:5px;}
+div#gallery .controls .next {background:url(http://img.jihui88.com/upload/f/f2/fjgm/picture/2015/08/06/0bdd243d-ec58-4101-8294-963acc25e365.gif) no-repeat 4px 6px #fff;right:5px;}
+#content1 div.navigation div.bottom {margin:5px 0 0 0;}
+/*新闻详细页*/
+#content1 div.propertyByNewsDetail {
+color:#555;
+width:1000px;
+margin:0 auto;
+padding:0;
+}
+div.wangpuBodyContTitle,
+div.shareInfo {
+color:#333;
+width:100%;
+margin:0;
+padding:0;
+}
+div.newsContentInfo {
+width:98%;
+margin:0 auto;
+padding:0;
+word-wrap:break-word;
+text-align:justify;
+}
+div.newsContentInfo .news_t {
+line-height:30px;
+margin:15px 0 10px 0;
+}
+div.newsContentInfo .news_t a {
+color:#333;
+}
+div.newsContentInfo img {
+max-width:990px;
+}
+div.propertyByNewsDetail .shareInfo #ckepop a {color:#333;}
+div.propertyByNewsDetail .shareInfo #ckepop a:hover {color:#009ed9;}
+div.product_bottom {margin:0 0 30px 0;padding:0;}
+div.product_bottom a {color:#666;line-height:30px;}
+div.product_bottom a:hover {color:#009ed9;}
+/*产品详细页*/
+#content1 div.propertyByProDetail {margin:0 auto;padding:0;width:1000px;}
+div.propertyByProDetail .wangpuBodyContTitle {margin:0;padding:0;border:0 none;}
+div.propertyByProDetail .summary {margin:0 auto;padding:0;width:600px;height:434px;}
+div.propertyByProDetail .summary .gallery {margin:0;padding:0;width:100%;position:relative;height:100%;}
+div.propertyByProDetail .summary .s600 {width:434px;height:434px;margin:0;padding:0;overflow:hidden;float:left;}
+div.propertyByProDetail .summary .s600 a {display:block;width:434px;height:434px;overflow:hidden;margin:0;padding:0;}
+div.propertyByProDetail .summary .s600 img {height:434px;max-width:434px;}
+div.propertyByProDetail .summary .thumb {margin:22px 0 0 0;padding:0;width:97px;height:388px;float:right;overflow:hidden;}
+div.propertyByProDetail .thumb li {width:97px;height:97px;overflow:hidden;border:0 none;margin:0;padding:0;}
+div.propertyByProDetail .thumb li .s160 {width:97px;height:97px;overflow:hidden;border:0 none;margin:0;padding:0;}
+div.propertyByProDetail .thumb li a {display:block;width:97px;height:97px;overflow:hidden;border:0 none;margin:0;padding:0;}
+div.propertyByProDetail .thumb li img {width:97px;height:97px;border:0 none;margin:0;padding:0;}
+div.propertyByProDetail .slide_up {display:block;width:97px;height:22px;background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/06/343144b8-793c-4660-9e9c-8c2e356b793f.jpg) no-repeat 0 0;position:absolute;top:0;right:0;}
+div.propertyByProDetail .slide_up:hover {background-position:0 -22px;}
+div.propertyByProDetail .slide_down {display:block;width:97px;height:22px;background:url(http://img.en.easthardware.net/upload/f/f2/fjgm/picture/2015/12/06/343144b8-793c-4660-9e9c-8c2e356b793f.jpg) no-repeat -97px 0;position:absolute;bottom:0;right:0;}
+div.propertyByProDetail .slide_down:hover {background-position:-97px -22px;}
+div.productType {display:none;}
+div.addthis_toolbox {width:750px;margin:30px auto 0 auto;}
+div.productDes {margin:30px auto 0 auto;padding:0;width:750px;}
+div.productDes img {max-width:750px;}
+div.xxcs {margin:0;padding:0;width:100%;display:none;}

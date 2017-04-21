@@ -1,0 +1,1033 @@
+.outBg{
+    padding:0;
+}
+.inBg {
+    overflow:hidden;
+    background:#fff;
+    margin:0 auto;
+    width:100%;
+    max-width:1920px;
+    min-width:1200px;
+    font-size:12px;
+    font-family:"Microsoft YaHei","SimHei","SimSun";
+    margin-top: 0;
+}
+
+.inBg center .float-box {
+    display:none;
+}
+
+#headList {
+    padding:0;
+    margin-top:0;
+    position:relative;
+}
+
+.analysis_foot,
+#belowList {
+    background:transparent;
+    height:auto;
+    margin:0 auto;
+    padding:0;
+    width:100%;
+}
+
+#belowList{
+    border:none;
+    padding:0;
+    margin:0;
+}
+
+div.mod-footer {
+    background:#f4f5f5;
+    border:0 none;
+    color:#9aa1b1;
+    margin:0;
+    padding:0;
+}
+
+.analysis_foot {
+    background:#fff;
+    display:none;
+}
+
+.user_defined{
+    margin:0;
+}
+.bodyContTitle{
+    display:none;
+}
+.bodyContContent{
+    padding:0;
+}
+
+.bodyCont{
+    border:none;
+    margin:0;
+} 
+
+li {
+    list-style: none;
+}
+
+a{text-decoration:none; }
+a:hover{text-decoration:none;}
+
+p{
+    margin:0;
+    padding:0;
+    font-family:"Microsoft YaHei","SimHei","SimSun";
+}
+
+.clearfix:before, 
+.clearfix:after {  
+    content:""; 
+    display:block;
+    clear:both; 
+    visibility: hidden;
+    line-height: 0; 
+    height: 0;
+    font-size:0; 
+} 
+.clearfix {
+    *zoom:1;
+}
+#floatwindow{
+    display:none;
+}
+.go-topbtn{
+    display:none !important;
+}
+#toolbar{
+    display:none;
+}
+#jihui-footer{
+    display: none;
+}
+#topbar-v2{
+    display: none !important;
+}
+
+#content{
+    width:100%;
+    overflow:hidden;
+}
+#content1{
+    width:100% !important;
+    margin:0;
+    float:none;
+    max-width:none;
+    overflow:hidden;
+    position:relative;
+}
+#content2{
+    width:100% !important;
+    margin:0;
+    float:none;
+    max-width:none;
+    overflow:hidden;
+    position:relative;
+}
+#content3{
+    width:100% !important;
+    margin:0 auto;
+    float:none;
+    max-width:none;
+    overflow:hidden;
+    position:relative;
+}
+
+/* 头部 */
+#user_defined1 .bodyContContent{
+    overflow: visible;
+}
+#user_defined1 .header{
+    width: 100%;
+    height: 40px;
+    background: #333333;
+}
+#user_defined1 .header_content{
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto;
+}
+#user_defined1 .header .welcome{
+    font-size: 12px;
+    color: #f4f4f4;
+    line-height: 40px;
+    float: left;
+}
+#user_defined1 .header .header_info{
+    float: right;
+}
+#user_defined1 .header .hot_line{
+    float: left;
+    font-size: 15px;
+    line-height: 40px;
+    color: #fff;
+    height: 40px;
+    padding: 0 16px;
+    position: relative;
+}
+#user_defined1 .header .hot_line:before{
+    content: "";
+    width: 1px;
+    height: 6px;
+    display: block;
+    background: #5c5c5c;
+    position: absolute;
+    left: 0;
+    top: 17px;
+}
+#user_defined1 .header .hot_line:after{
+    content: "";
+    width: 1px;
+    height: 6px;
+    display: block;
+    background: #5c5c5c;
+    position: absolute;
+    right: 0;
+    top: 17px;
+}
+#user_defined1 .header .contact_icon{
+    float: left;
+    padding: 0 10px;
+}
+#user_defined1 .header .contact_icon a{
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    margin: 6px 2px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/17/d75f9b6c-86c2-4e4f-9388-77481d8c0754.png);
+    background-repeat: no-repeat;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined1 .header .contact_icon a.weibo{
+    background-position: 0 0;
+}
+#user_defined1 .header .contact_icon a.weibo:hover{
+    background-position: 0 -28px;
+}
+#user_defined1 .header .contact_icon a.qq{
+    background-position: -28px 0;
+}
+#user_defined1 .header .contact_icon a.qq:hover{
+    background-position: -28px -28px;
+}
+#user_defined1 .header .contact_icon a.wechat{
+    background-position: -56px 0;
+}
+#user_defined1 .header .contact_icon a.wechat:hover{
+    background-position: -56px -28px;
+}
+#user_defined1 .header .lang{
+    padding: 4px 0;
+    padding-left: 13px;
+    float: left;
+    position: relative;
+}
+#user_defined1 .lang .active_lang{
+    width: auto;
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    font-size: 13px;
+    text-align: center;
+    color: #858585;
+    position: relative;
+    font-family: "Arial";
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined1 .lang .active_lang:hover{
+    color: #fff;
+}
+#user_defined1 .lang .active_lang.active{
+    color: #fff;
+}
+
+/* 导航菜单 */
+#user_defined2{
+    height:80px;
+}
+#user_defined2 .bodyContContent{
+    overflow: visible;
+}
+#user_defined2 .nav{
+    width: 100%;
+    height: 80px;
+    background: rgba(255,255,255,1);
+    position: relative;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav.active{
+    position: fixed;
+    background: rgba(255,255,255,1);
+    box-shadow: 0 0 10px #999;
+    -moz-box-shadow: 0 0 10px #999;
+    -o-box-shadow: 0 0 10px #999;
+    -webkit-box-shadow: 0 0 10px #999;
+}
+#user_defined2 .nav_content{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+    position: relative;
+}
+#user_defined2 .nav .logo{
+    width: 194px;
+    height: 80px;
+    font-size: 0;
+    line-height: 0;
+    float: left;
+}
+#user_defined2 .nav .nav_block{
+    float: left;
+    margin-left: 30px;
+}
+#user_defined2 .nav .nav_block ul{
+    display: block;
+    float: left;
+}
+#user_defined2 .nav .nav_block li{
+    float: left;
+    display: block;
+}
+#user_defined2 .nav .nav_block .nav_a{
+    width: 128px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    line-height: 80px;
+    font-size: 18px;
+    color: #333333;
+    position: relative;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_block .nav_a:hover{
+    color: #ea5415;
+}
+#user_defined2 .nav .nav_block .nav_a.active{
+    color: #ea5415;
+}
+#user_defined2 .nav .nav_block .nav_a:before{
+    content: "";
+    width: 0;
+    height: 2px;
+    display: block;
+    background: #ea5415;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_block .nav_a:hover::before{
+    width: 50%;
+}
+#user_defined2 .nav .nav_block .nav_a.active:before{
+    width: 50%;
+}
+#user_defined2 .nav .nav_block .nav_a:after{
+    content: "";
+    width: 0;
+    height: 2px;
+    display: block;
+    background: #ea5415;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_block .nav_a:hover::after{
+    width: 50%;
+}
+#user_defined2 .nav .nav_block .nav_a.active:after{
+    width: 50%;
+}
+#user_defined2 .nav .nav_block .show_search_btn{
+    width: 38px;
+    height: 38px;
+    display: block;
+    float: left;
+    margin: 21px 0;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/17/4f13003e-581d-41fc-9c6a-d983673c8fe0.png);
+    background-repeat: no-repeat;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_block .show_search_btn:hover{
+    background-position: -38px 0;
+}
+#user_defined2 .nav .nav_pro_content{
+    position: absolute;
+    top: 80px;
+    left: 282px;
+    padding: 0 30px;
+    background: #fff;
+    overflow: hidden;
+    white-space:nowrap;
+    display: none;
+    box-shadow: 0 0 5px #ccc;
+    -moz-box-shadow: 0 0 5px #ccc;
+    -o-box-shadow: 0 0 5px #ccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+}
+#user_defined2 .nav .nav_pro_content ul{
+    float: none;
+    clear: both;
+}
+#user_defined2 .nav .nav_pro_content li{
+    padding: 0 22px;
+    display: inline-block;
+    width: auto;
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    opacity: 0;
+    position: relative;
+    left: 50px;
+    transition:all ease-out .4s;
+    -moz-transition:all ease-out .4s;
+    -o-transition:all ease-out .4s;
+    -webkit-transition:all ease-out .4s;
+}
+#user_defined2 .nav .nav_pro_content li:nth-child(1){
+    transition-delay: .3s;
+    -moz-transition-delay: .3s;
+    -o-transition-delay: .3s;
+    -webkit-transition-delay: .3s;
+}
+#user_defined2 .nav .nav_pro_content li:nth-child(2){
+    transition-delay: .4s;
+    -moz-transition-delay: .4s;
+    -o-transition-delay: .4s;
+    -webkit-transition-delay: .4s;
+}
+#user_defined2 .nav .nav_pro_content li:nth-child(3){
+    transition-delay: .5s;
+    -moz-transition-delay: .5s;
+    -o-transition-delay: .5s;
+    -webkit-transition-delay: .5s;
+}
+#user_defined2 .nav .nav_pro_content li:nth-child(4){
+    transition-delay: .6s;
+    -moz-transition-delay: .6s;
+    -o-transition-delay: .6s;
+    -webkit-transition-delay: .6s;
+}
+#user_defined2 .nav .nav_pro_content li:nth-child(5){
+    transition-delay: .7s;
+    -moz-transition-delay: .7s;
+    -o-transition-delay: .7s;
+    -webkit-transition-delay: .7s;
+}
+#user_defined2 .nav .nav_pro_content.active li{
+    opacity: 1;
+    left: 0;
+}
+#user_defined2 .nav .nav_pro_content a{
+    font-size: 15px;
+    color: #999999;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_pro_content a:hover{
+    color: #ea5415;
+}
+
+#user_defined2 .nav .nav_news_content{
+    position: absolute;
+    top: 80px;
+    left: 370px;
+    padding: 0 30px;
+    background: #fff;
+    overflow: hidden;
+    white-space:nowrap;
+    display: none;
+    box-shadow: 0 0 5px #ccc;
+    -moz-box-shadow: 0 0 5px #ccc;
+    -o-box-shadow: 0 0 5px #ccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+}
+#user_defined2 .nav .nav_news_content ul{
+    float: none;
+    clear: both;
+}
+#user_defined2 .nav .nav_news_content li{
+    padding: 0 22px;
+    display: inline-block;
+    width: auto;
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    opacity: 0;
+    position: relative;
+    left: 50px;
+    transition:all ease-out .4s;
+    -moz-transition:all ease-out .4s;
+    -o-transition:all ease-out .4s;
+    -webkit-transition:all ease-out .4s;
+}
+#user_defined2 .nav .nav_news_content li:nth-child(1){
+    transition-delay: .3s;
+    -moz-transition-delay: .3s;
+    -o-transition-delay: .3s;
+    -webkit-transition-delay: .3s;
+}
+#user_defined2 .nav .nav_news_content li:nth-child(2){
+    transition-delay: .4s;
+    -moz-transition-delay: .4s;
+    -o-transition-delay: .4s;
+    -webkit-transition-delay: .4s;
+}
+#user_defined2 .nav .nav_news_content li:nth-child(3){
+    transition-delay: .5s;
+    -moz-transition-delay: .5s;
+    -o-transition-delay: .5s;
+    -webkit-transition-delay: .5s;
+}
+#user_defined2 .nav .nav_news_content.active li{
+    opacity: 1;
+    left: 0;
+}
+#user_defined2 .nav .nav_news_content a{
+    font-size: 15px;
+    color: #999999;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .nav .nav_news_content a:hover{
+    color: #ea5415;
+}
+
+#user_defined2 .nav .other_nav{
+    float: right;
+    height: 32px;
+    padding: 24px 0;
+}
+#user_defined2 .nav .other_nav a{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 5px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/17/ea78f3e3-f14f-4884-a31e-a24130326c5c.png);
+    background-repeat: no-repeat;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+float:left;
+}
+#user_defined2 .nav .other_nav a.help{
+    background-position: 0 0;
+}
+#user_defined2 .nav .other_nav a.help:hover{
+    background-position: 0 -32px;
+}
+#user_defined2 .nav .other_nav a.login,
+#user_defined2 .nav .other_nav a.huiyuan{
+    background-position: -32px 0;
+}
+#user_defined2 .nav .other_nav a.tuichu {
+background:none;
+line-height:32px;
+text-align:center;
+color:#656d77;
+}
+#user_defined2 .nav .other_nav a.tuichu:hover {
+color:#ea5415;
+}
+#user_defined2 .nav .other_nav a.login:hover,
+#user_defined2 .nav .other_nav a.huiyuan:hover{
+    background-position: -32px -32px;
+}
+#user_defined2 .nav .other_nav a.shop_car{
+    background-position: -64px 0;
+}
+#user_defined2 .nav .other_nav a.shop_car:hover{
+    background-position: -64px -32px;
+}
+
+#user_defined2 .search{
+    width: 0;
+    float: left;
+    height: 40px;
+    padding: 20px 0;
+    margin-left: 20px;
+    overflow: hidden;
+    position: relative;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .search.show{
+    width: 250px;
+}
+#user_defined2 .search .search_text{
+    width: 222px;
+    padding: 0 14px;
+    float: right;
+    height: 40px;
+    background: #fcfcfc;
+    outline: none;
+    font-size: 14px;
+    color: #333;
+    border: none;
+    font-family: "Microsoft YaHei","SimHei","SimSun";
+}
+input::-webkit-input-placeholder {
+    color: #333; 
+} 
+input:-moz-placeholder {
+    color: #333; 
+} 
+input::-moz-placeholder {
+    color: #333; 
+} 
+input:-ms-input-placeholder {
+    color: #333; 
+} 
+
+#user_defined2 .search .keywords{
+    width: 46px;
+    height: 24px;
+    background: #dedede;
+    color: #999;
+    line-height: 24px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 28px;
+    font-size: 14px;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined2 .search .keywords1{
+    left: 10px;
+}
+#user_defined2 .search .keywords2{
+    left: 65px;
+}
+#user_defined2 .search .keywords3{
+    left: 120px;
+}
+#user_defined2 .search .keywords:hover{
+    background: #ea5415;
+    color: #fff;
+}
+
+/* 内页banner */
+#user_defined5 .banner_inside{
+    width: 100%;
+    height: 430px;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2017/03/06/eded1005-cf7b-4ef1-907f-8d227efda5c8.jpg) no-repeat center;
+}
+
+/* 底部 */
+#user_defined3 .top_content{
+    width: 100%;
+    height: 113px;
+    background: #fafafa;
+}
+#user_defined3 .top_content .top_info{
+    width: 1200px;
+    height: 113px;
+    margin: 0 auto;
+}
+#user_defined3 .top_info .info_block{
+    width: 230px;
+    height: 66px;
+    padding-top: 22px;
+    padding-bottom: 25px;
+    float: left;
+    margin-right: 93px;
+}
+#user_defined3 .top_info .info_block4{
+    margin-right: 0;
+}
+#user_defined3 .top_info .info_block a{
+    display: block;
+    overflow: hidden;
+}
+#user_defined3 .info_block .info_pic{
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    float: left;
+}
+#user_defined3 .info_block .info_details{
+    width: 146px;
+    float: right;
+    display: block;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+#user_defined3 .info_block .info_details h1{
+    margin: 0;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 29px;
+    height: 29px;
+    color: #000000;
+}
+#user_defined3 .info_block .info_details .info_title{
+    display: block;
+    margin: 0;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 29px;
+    height: 29px;
+    color: #000000;
+}
+#user_defined3 .info_block .info_details p{
+    font-size: 13px;
+    line-height: 25px;
+    height: 25px;
+    color: #999999;
+}
+#user_defined3 .info_block .info_details .info_intro{
+    display: block;
+    font-size: 13px;
+    line-height: 25px;
+    height: 25px;
+    color: #999999;
+}
+#user_defined3 .bottom_content{
+    width: 100%;
+    height: 248px;
+    background: #333333;
+}
+#user_defined3 .bottom_content .bottom_info{
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+#user_defined3 .bottom_info .copyright{
+    height: 61px;
+}
+#user_defined3 .copyright p{
+    float: left;
+    font-size: 13px;
+    line-height: 61px;
+    color: #999999;
+}
+#user_defined3 .copyright ul{
+    float: right;
+}
+#user_defined3 .copyright li{
+    line-height: 61px;
+    margin-left: 11px;
+    float: left;
+}
+#user_defined3 .copyright li a{
+    font-size: 13px;
+    color: #999999;
+}
+#user_defined3 .copyright li a:hover{
+    color: #fff;
+}
+#user_defined3 .bottom_info .nav_content{
+    height: 137px;
+    width: 1200px;
+}
+#user_defined3 .nav_content .nav_block{
+    float: left;
+    position: relative;
+    padding-left: 87px;
+    width: 155px;
+}
+#user_defined3 .nav_content .nav_block:after{
+    content: "";
+    width: 1px;
+    height: 114px;
+    display: block;
+    background: #525252;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#user_defined3 .nav_content .contact_nav:after{
+    display: none;
+}
+#user_defined3 .nav_block.about_nav{
+    padding-left: 0;
+}
+#user_defined3 .nav_block.contact_nav{
+    padding: 0;
+    width: 245px;
+    float: right;
+}
+#user_defined3 .nav_block h1{
+    margin: 0;
+    height: 17px;
+    line-height: 17px;
+    margin-bottom: 17px;
+}
+#user_defined3 .nav_block h1 a{
+    font-size: 17px;
+    color: #cccccc;
+    font-weight: normal;
+}
+#user_defined3 .nav_block h1 a:hover{
+    color: #fff;
+}
+#user_defined3 .nav_block li{
+    line-height: 28px;
+}
+#user_defined3 .nav_block li a{
+    font-size: 13px;
+    color: #999999;
+}
+#user_defined3 .nav_block li a:hover{
+    color: #fff;
+}
+#user_defined3 .contact_nav .hotline{
+    width: 245px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 13px;
+    color: #cccccc;
+    background: #666666;
+    margin-top: 14px;
+}
+#user_defined3 .contact_nav .hotline span{
+    font-size: 17px;
+}
+#user_defined3 .contact_nav h1{
+    margin-bottom: 19px;
+}
+#user_defined3 .contact_nav ul{
+    height: 24px;
+}
+#user_defined3 .contact_nav li{
+    width: 24px;
+    height: 24px;
+    float: left;
+    line-height: 0;
+    font-size: 0;
+    margin-right: 16px;
+}
+#user_defined3 .contact_nav li a{
+    width: 24px;
+    height: 24px;
+    display: block;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/18/dcaf0f89-444e-4657-914a-58891edcc8ad.png);
+    background-repeat: no-repeat;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined3 .contact_nav li a.weibo{
+    background-position: 0 0;
+}
+#user_defined3 .contact_nav li a.weibo:hover{
+    background-position: 0 -24px;
+}
+#user_defined3 .contact_nav li a.wechat{
+    background-position: -24px 0;
+}
+#user_defined3 .contact_nav li a.wechat:hover{
+    background-position: -24px -24px;
+}
+#user_defined3 .contact_nav li a.qq{
+    background-position: -48px 0;
+}
+#user_defined3 .contact_nav li a.qq:hover{
+    background-position: -48px -24px;
+}
+
+#user_defined3 .side_float{
+    width:63px;
+    height:auto;
+    position: fixed;
+    left: 50%;
+    margin-left:601px;
+    bottom:50px;
+    z-index: 9999;
+}
+#user_defined3 .side_float li{
+    margin-top:1px;
+}
+#user_defined3 .side_float a{
+    width:63px;
+    height:63px;
+    display: block;
+    overflow: hidden;
+    border-radius: 3px;
+    background-color: #9b9b9b;
+    opacity: 1;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined3 .side_float a.go_top{
+    display: none;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/21/8c746f6f-6337-48f1-a8aa-9c2c634e8095.png);
+}
+#user_defined3 .side_float a.contact_qq{
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/21/f4229c8b-25fb-4959-bbd0-573d5b914e41.png);
+}
+#user_defined3 .side_float a.share{
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/21/6b8a959d-25aa-45e5-9f1b-e2f12195771c.png);
+}
+#user_defined3 .side_float a:hover{
+    background-color: #dedede;
+    background-image: none;
+}
+#user_defined3 .side_float span{
+    display: block;
+    width: 41px;
+    height: 41px;
+    padding: 11px;
+    color: #666;
+    text-align: center;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 63px;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined3 .side_float a:hover span{
+    margin-top: 0;
+}
+
+#user_defined3 .code{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+    opacity: 0;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined3 .code.active{
+    z-index: 99999;
+    opacity: 1;
+}
+#user_defined3 .code_content{
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    overflow: hidden;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+}
+#user_defined3 .code .code_pic{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+#user_defined3 .code .code_pic img{
+    width: 100%;
+    height: 100%;
+}
+@font-face {
+    font-family: 'webfont_code';
+    src: url('//at.alicdn.com/t/c35lov3jaggphkt9.eot');
+    src: url('//at.alicdn.com/t/c35lov3jaggphkt9.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/c35lov3jaggphkt9.woff') format('woff'),
+    url('//at.alicdn.com/t/c35lov3jaggphkt9.ttf') format('truetype'),
+    url('//at.alicdn.com/t/c35lov3jaggphkt9.svg#思源黑体-细') format('svg');
+}
+#user_defined3 .code .code_content h1{
+    margin: 0;
+    line-height: 40px;
+    text-align: center;
+    font-family: "webfont_code";
+    color: #333;
+}
+#user_defined3 .code .close_btn{
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/9e1a1bf0-86b0-422d-9d12-90c780fbb2a4.png) no-repeat center;
+    background-size: 100% 100%;
+}
+
+/* 面包屑导航 */
+.hunk_breadcrumb_navigation{
+    width: 100%;
+    height: 54px;
+    background: #fcfcfc;
+}
+.hunk_breadcrumb_navigation .hunk_breadcrumb_navigation_2{
+    width: 1175px;
+    height: 54px;
+    line-height: 54px;
+    margin: 0 auto;
+    position: relative;
+    padding-left: 25px;
+    font-size: 0;
+}
+.hunk_breadcrumb_navigation span, .hunk_breadcrumb_navigation a{
+    font-size: 13px;
+    color: #999999;
+}
+.hunk_breadcrumb_navigation a:hover{
+    color: #ea5415;
+}
+.hunk_breadcrumb_navigation .txt_m{
+    display: none;
+}
+.hunk_breadcrumb_navigation .txt_b{
+    font-size: 0;
+    line-height: 0;
+    text-indent: -9999px;
+    width: 11px;
+    height: 15px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 19px;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/18/209f676c-6f42-4045-8f2d-e4d4c4b9090a.png) no-repeat center;
+}
+.hunk_breadcrumb_navigation .txt_j5, .hunk_breadcrumb_navigation .txt_j_2, .hunk_breadcrumb_navigation .txt_j_6, .hunk_breadcrumb_navigation .txt_j_7, .hunk_breadcrumb_navigation .txt_j_8, .hunk_breadcrumb_navigation .txt_j_9, .hunk_breadcrumb_navigation .txt_j_11, .hunk_breadcrumb_navigation .txt_j_12, .hunk_breadcrumb_navigation .txt_j_15{
+    margin: 0 10px;
+}

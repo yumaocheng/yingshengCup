@@ -1,0 +1,24 @@
+#content #content1 {width:100% !important;}
+/*自定义5*/
+#content1 #user_defined5 {margin:0;}
+#content1 #user_defined5 .bodyContTitle {margin:0;}
+#user_defined5 .bodyContContent {width:1226px;margin:0 auto;}
+.pic_list ul {margin:0;padding:0;overflow:hidden;clear:both;}
+.pic_list ul li .pic_txt {margin:100px 0 0 61px;_margin:100px 0 0 31px;color:#000;font-size:32px;line-height:35px;font-weight:bold;text-transform:uppercase;text-align:justify;}
+.pic_list ul li .pic_txt a {display:block;border:2px solid #000;width:128px;height:42px;line-height:42px;text-align:center;font-size:12px;text-decoration:none;margin:20px 0 0 20px;_margin:20px 0 0 10px;color:#000;}
+.pic_list ul li .pic_txt a:hover {border:2px solid #009ed9;color:#009ed9;}
+.pic_list ul li img {width:100%;max-width:905px;display:block;float:right;}
+.pic_list ul li.pic_l {float:left;}
+.pic_list ul li.pic_r {float:right;}
+.pic_list ul.pic_ul_1 li.pic_l,
+.pic_list ul.pic_ul_3 li.pic_l {width:26%;}
+.pic_list ul.pic_ul_1 li.pic_r,
+.pic_list ul.pic_ul_3 li.pic_r {width:73%;}
+.pic_list ul.pic_ul_2 li.pic_r {width:26%;}
+.pic_list ul.pic_ul_2 li.pic_l {width:73%;}
+.pic_list ul.pic_ul_3 li .pic_txt {margin:100px 0 0 20px;_margin:100px 0 0 10px;}
+.pic_list ul.pic_ul_3 li .pic_txt a {margin:20px 0 0 60px;_margin:20px 0 0 30px;}
+
+.wrapper #user_defined5 .bodyContContent {width:1000px;}
+.wrapper .pic_list ul li .pic_txt {font-size:26px;}
+.wrapper .pic_list ul li .pic_txt a {margin:5px 0 0 10px;_margin:5px 0 0 5px;}

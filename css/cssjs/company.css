@@ -1,0 +1,564 @@
+#user_defined5 .banner_inside{
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/18/0318975d-dd91-4dd4-a216-7e9d1ae29eee.jpg) no-repeat center;
+}
+
+/* 公司简介 */
+#user_defined8 .profile{
+    width: 100%;
+    background: #fff;
+}
+@font-face {
+    font-family: 'webfont_1';
+    src: url('//at.alicdn.com/t/c3vx686fos9k9.eot');
+    src: url('//at.alicdn.com/t/c3vx686fos9k9.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/c3vx686fos9k9.woff') format('woff'),
+    url('//at.alicdn.com/t/c3vx686fos9k9.ttf') format('truetype'),
+    url('//at.alicdn.com/t/c3vx686fos9k9.svg#思源黑体-细') format('svg');
+}
+#user_defined8 .profile_title{
+    padding-bottom: 18px;
+    padding-top: 55px;
+}
+#user_defined8 .profile_title h1{
+    font-size: 33px;
+    color: #010101;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_1";
+}
+#user_defined8 .profile_title h2{
+    font-size: 15px;
+    color: #b7b7b7;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined8 .profile_content{
+    width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 68px;
+}
+#user_defined8 .profile_block{
+    overflow: hidden;
+}
+#user_defined8 .profile_block .profile_pic{
+    float: left;
+    font-size: 0;
+    line-height: 0;
+}
+#user_defined8 .profile_block .profile_info{
+    width: 580px;
+    height:313px;
+    overflow-y: auto;
+    float: right;
+    margin:27px 0;
+    scrollbar-base-color: #00579e;
+    scrollbar-track-color: #00579e;
+    scrollbar-3dlight-color: #00579e;
+    scrollbar-arrow-color: #00579e;
+    scrollbar-shadow-color: #00579e;
+    scrollbar-highlight-color: #00579e;
+}
+#user_defined8 .profile_block .profile_info.scroll_box{
+    padding-right:10px;
+    width:570px;
+}
+#user_defined8 .profile_block .profile_info::-webkit-scrollbar-track{
+    width:3px;
+    background-color: none;
+    border-left:0 none;
+    border-right:0 none;
+}
+#user_defined8 .profile_block .profile_info::-webkit-scrollbar{
+    width: 5px;
+    background-color: none;
+}
+#user_defined8 .profile_block .profile_info::-webkit-scrollbar-thumb{
+    background-color: #00579e;
+}
+#user_defined8 .profile_block .profile_info p{
+    font-size: 13px;
+    line-height: 30px;
+    color: #b7b7b7;
+    text-align: justify;
+    text-indent: 26px;
+}
+#user_defined8 .profile_block .profile_info .hide_p{
+    display: none;
+}
+#user_defined8 .profile_block .profile_info a{
+    color: #00579e;
+}
+#user_defined8 .company_pic{
+    padding: 21px 0;
+    height: 121px;
+}
+#user_defined8 .company_pic img{
+    margin-right: 24px;
+}
+#user_defined8 .company_pic img:last-child{
+    margin-right: 0;
+}
+
+/* 荣誉证书 */
+#user_defined9 .cert{
+    width: 100%;
+    height: 459px;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2017/02/20/2ec04826-07a0-4339-8d1a-d11a20f283af.jpg) no-repeat center;
+}
+@font-face {
+    font-family: 'webfont_2';
+    src: url('//at.alicdn.com/t/u9ghrzlyr32chaor.eot');
+    src: url('//at.alicdn.com/t/u9ghrzlyr32chaor.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/u9ghrzlyr32chaor.woff') format('woff'),
+    url('//at.alicdn.com/t/u9ghrzlyr32chaor.ttf') format('truetype'),
+    url('//at.alicdn.com/t/u9ghrzlyr32chaor.svg#思源黑体-细') format('svg');
+}
+#user_defined9 .cert_title{
+    padding-top: 52px;
+    padding-bottom: 13px;
+}
+#user_defined9 .cert_title h1{
+    font-size: 33px;
+    color: #000;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_2";
+}
+#user_defined9 .cert_title h2{
+    font-size: 15px;
+    color: #000;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined9 .cert_content{
+    width: 1200px;
+    height: 249px;
+    margin: 0 auto;
+    position: relative;
+}
+#user_defined9 .cert-container{
+    width: 1200px;
+    height: 209px;
+    padding: 20px 16px;
+    overflow: hidden;
+    margin-left: -16px;
+}
+#user_defined9 .cert_content .swiper-slide{
+    width: 276px;
+    height: 209px;
+    margin: 0 16px;
+    display: table;
+}
+#user_defined9 .cert_content .swiper-slide a{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 0;
+    line-height: 0;
+    background: #fff;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined9 .cert_content .swiper-slide a:hover{
+    transform:translateY(-8px);
+    -o-transform:translateY(-8px);
+    -moz-transform:translateY(-8px);
+    -webkit-transform:translateY(-8px);
+    box-shadow: 0px 0 12px #333;
+    -moz-box-shadow: 0px 0 12px #333;
+    -o-box-shadow: 0px 0 12x #333;
+    -webkit-box-shadow: 0px 0 12px #333;
+}
+#user_defined9 .cert_content .swiper-slide img{
+    width: auto;
+    height: auto;
+    max-width: 246px;
+    max-height: 173px;
+}
+#user_defined9 .cert_content .swiper-button-prev{
+    width: 26px;
+    height: 51px;
+    display: block;
+    top: 99px;
+    margin: 0;
+    left: -50px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/83638f6e-d69f-43cd-85ab-72fcef2eaa98.png);
+    background-repeat: no-repeat;
+    background-size: auto 51px;
+    background-position: 0 0;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined9 .cert_content .swiper-button-prev:hover{
+    background-position: -26px 0;
+}
+#user_defined9 .cert_content .swiper-button-next{
+    width: 26px;
+    height: 51px;
+    display: block;
+    top: 99px;
+    margin: 0;
+    right: -50px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/9a7b1970-7dcc-4f14-b6cf-1711b8a1d911.png);
+    background-repeat: no-repeat;
+    background-size: auto 51px;
+    background-position: -26px 0;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined9 .cert_content .swiper-button-next:hover{
+    background-position: 0 0;
+}
+
+#user_defined9 .show_content{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    opacity:0;
+    z-index:-1;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined9 .show_content.show{
+    opacity:1;
+    z-index:1000;
+}
+#user_defined9 .close_area{
+    width:100%;
+    height:100%;
+    display:block;
+    background:rgba(0,0,0,.8);
+    position:absolute;
+    z-index:1001;
+    left:0;
+    top:0;
+}
+#user_defined9 .pic_content{
+    width: 800px;
+    height: 500px;
+    background: #fff;
+    display: table;
+    overflow: hidden;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1002;
+    left: 50%;
+    top: 50%;
+    margin-left: -400px;
+    margin-top: -250px;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined9 .pic_content span{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+#user_defined9 .pic_content img{
+    width: auto;
+    height: auto;
+    max-width: 720px;
+    max-height: 420px;
+}
+#user_defined9 .pic_content .close_btn{
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/9e1a1bf0-86b0-422d-9d12-90c780fbb2a4.png) no-repeat center;
+    background-size: 100% 100%;
+}
+
+/* 人才招聘 */
+#user_defined14 .recruit{
+    padding-bottom: 38px;
+}
+#user_defined14 .recruit_title{
+    padding-top: 63px;
+    padding-bottom: 26px;
+}
+@font-face {
+    font-family: 'webfont_3';
+    src: url('//at.alicdn.com/t/3ftgh96kstc5wmi.eot');
+    src: url('//at.alicdn.com/t/3ftgh96kstc5wmi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/3ftgh96kstc5wmi.woff') format('woff'),
+    url('//at.alicdn.com/t/3ftgh96kstc5wmi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/3ftgh96kstc5wmi.svg#思源黑体-细') format('svg');
+}
+#user_defined14 .recruit_title h1{
+    font-size: 33px;
+    color: #000000;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_3";
+}
+#user_defined14 .recruit_title h2{
+    font-size: 15px;
+    color: #b7b7b7;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined14 .recruit_content{
+    width: 1200px;
+    margin: 0 auto;
+    border-top: 3px solid #dbdbdb;
+}
+#user_defined14 .recruit_content .contact_block{
+    height: 43px;
+}
+#user_defined14 .contact_block span{
+    display: block;
+    float: right;
+    font-size: 15px;
+    color: #666666;
+    line-height: 43px;
+    height: 43px;
+}
+#user_defined14 .contact_block span.contact_tel{
+    margin-right: 44px;
+}
+#user_defined14 .recruit_block li{
+    height: 42px;
+    border-bottom: 1px solid #ededed;
+}
+#user_defined14 .recruit_block li span{
+    font-size: 15px;
+    color: #b7b7b7;
+    display: inline-block;
+    line-height: 42px;
+}
+#user_defined14 .recruit_block li.first span{
+    color: #333333;
+}
+#user_defined14 .recruit_block .job{
+    width: 220px;
+}
+#user_defined14 .recruit_block .area{
+    width: 160px;
+    text-align: center;
+}
+#user_defined14 .recruit_block .num{
+    width: 100px;
+    text-align: center;
+}
+#user_defined14 .recruit_block .specialty{
+    width: 610px;
+    text-align: center;
+}
+#user_defined14 .recruit_block .date{
+    width: 110px;
+    text-align: left;
+}
+
+/* 资质证书 */
+#user_defined17 .qualification_title{
+    padding-top: 63px;
+    padding-bottom: 26px;
+}
+@font-face {
+    font-family: 'webfont_4';
+    src: url('//at.alicdn.com/t/nzvv8kpo967jh5mi.eot');
+    src: url('//at.alicdn.com/t/nzvv8kpo967jh5mi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/nzvv8kpo967jh5mi.woff') format('woff'),
+    url('//at.alicdn.com/t/nzvv8kpo967jh5mi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/nzvv8kpo967jh5mi.svg#思源黑体-细') format('svg');
+}
+#user_defined17 .qualification_title h1{
+    font-size: 33px;
+    color: #000000;
+    line-height: 41px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "webfont_4";
+}
+#user_defined17 .qualification_title h2{
+    font-size: 15px;
+    color: #b7b7b7;
+    line-height: 21px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    font-family: "Arial";
+}
+#user_defined17 .qualification_content{
+    width: 1220px;
+    height: 350px;
+    margin: 0 auto;
+    position: relative;
+}
+#user_defined17 .qualification-container{
+    width: 1200px;
+    height: 330px;
+    padding: 10px 10px;
+    overflow: hidden;
+    margin-left: -10px;
+}
+#user_defined17 .qualification_content .swiper-slide{
+    width: 240px;
+    height: 330px;
+    display: table;
+}
+#user_defined17 .qualification_content .swiper-slide a{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 0;
+    line-height: 0;
+    background: #fff;
+    position: relative;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined17 .qualification_content .swiper-slide a:hover{
+    z-index: 100;
+    transform:translateY(-5px);
+    -o-transform:translateY(-5px);
+    -moz-transform:translateY(-5px);
+    -webkit-transform:translateY(-5px);
+    box-shadow: 0px 0 5px #333;
+    -moz-box-shadow: 0px 0 5px #333;
+    -o-box-shadow: 0px 0 5x #333;
+    -webkit-box-shadow: 0px 0 5px #333;
+}
+#user_defined17 .qualification_content .swiper-slide img{
+    width: auto;
+    height: auto;
+    max-width: 220px;
+    max-height: 310px;
+}
+#user_defined17 .qualification_content .swiper-button-prev{
+    width: 26px;
+    height: 51px;
+    display: block;
+    top: 99px;
+    margin: 0;
+    left: -50px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/83638f6e-d69f-43cd-85ab-72fcef2eaa98.png);
+    background-repeat: no-repeat;
+    background-size: auto 51px;
+    background-position: 0 0;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined17 .qualification_content .swiper-button-prev:hover{
+    background-position: -26px 0;
+}
+#user_defined17 .qualification_content .swiper-button-next{
+    width: 26px;
+    height: 51px;
+    display: block;
+    top: 99px;
+    margin: 0;
+    right: -50px;
+    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/9a7b1970-7dcc-4f14-b6cf-1711b8a1d911.png);
+    background-repeat: no-repeat;
+    background-size: auto 51px;
+    background-position: -26px 0;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined17 .qualification_content .swiper-button-next:hover{
+    background-position: 0 0;
+}
+#user_defined17 .show_content{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    opacity:0;
+    z-index:-1;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined17 .show_content.show{
+    opacity:1;
+    z-index:1000;
+}
+#user_defined17 .close_area{
+    width:100%;
+    height:100%;
+    display:block;
+    background:rgba(0,0,0,.8);
+    position:absolute;
+    z-index:1001;
+    left:0;
+    top:0;
+}
+#user_defined17 .pic_content{
+    width: 445px;
+    height: 620px;
+    background: #fff;
+    display: table;
+    overflow: hidden;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1002;
+    left: 50%;
+    top: 50%;
+    margin-left: -222px;
+    margin-top: -310px;
+    transition:all ease-out .3s;
+    -moz-transition:all ease-out .3s;
+    -o-transition:all ease-out .3s;
+    -webkit-transition:all ease-out .3s;
+}
+#user_defined17 .pic_content span{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+#user_defined17 .pic_content img{
+    width: auto;
+    height: auto;
+    max-width: 425px;
+    max-height: 600px;
+}
+#user_defined17 .pic_content .close_btn{
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/19/9e1a1bf0-86b0-422d-9d12-90c780fbb2a4.png) no-repeat center;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+
+.outBg {
+	background: url(images/outBg.gif) repeat scroll 0 0 transparent;
+}
+
+.inBg {
+	background: url(images/inBg.gif) repeat scroll 0 0 transparent;
+}
+
+.headTopic {
+	background: url(images/banner.jpg) repeat scroll 0 0 transparent;
+	height: 200px;
+}
+
+.headerMenuBg {
+	background: url(images/navBg.gif) scroll 0 0 transparent;
+}
+
+.headerMenuBorder {
+	border-color: #BCD4EC;
+	border-style: solid;
+	border-width: 1px 1px 0;
+	height: 28px;
+}
+
+.headerMenuList a {
+	color: #1D6199;
+}
+
+.headerMenuLiCheck {
+	border-color: #3D8ACA;
+}
+.headerMenuLiCheckBg{
+	background: url(images/navCheckBg.gif)  scroll 0 0 transparent;
+}
+.headerMenuLiCheck a {
+	color: #FFFFFF;
+}
+
+.headerMenuBottom {
+	border-bottom-color: #3D8ACA;
+}
+
+.bodyCont {
+	background: none repeat scroll 0 0 transparent;
+	border-color: #AECDEC;
+	border-style: solid;
+}
+
+.bodyContTitle {
+	background: url(images/titleBg.gif) repeat scroll 0 0 transparent;
+}
+.submenu .headerMenuLi {
+    height: 28px;
+}
