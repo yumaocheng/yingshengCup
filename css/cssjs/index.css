@@ -593,7 +593,7 @@ border-bottom-right-radius: 6px;
 #fullpage #section4 .section_bg{
     width: 2160px;
     height: 1080px;
-    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/11/21/2bbbfbb4-8b6a-4fb4-92f9-6215420eade4.jpg);
+    background-image: url(../../images/index/bg-5.jpg);
     background-size: auto auto;
     background-position: center center;
     position: absolute;
@@ -819,7 +819,7 @@ border-bottom-right-radius: 6px;
 #fullpage #section5 .video_content .video_block a:hover::before{
     background: rgba(0,87,158,0.6);
 }
-#fullpage #section5 .video_content .video_block a:after{
+/*#fullpage #section5 .video_content .video_block a:after{
     content:"";
     width:38px;
     height:38px;
@@ -838,7 +838,7 @@ border-bottom-right-radius: 6px;
     left: 179px;
     top:174px;
     background:url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/20/9a7ab3d5-87d6-4917-a517-b73fe3172222.png) no-repeat center;
-}
+}*/
 #fullpage #section5 .video_content .video_block .video_intro{
     position: absolute;
     width: 100%;
@@ -1106,7 +1106,7 @@ border-bottom-right-radius: 6px;
     width: 24px;
     height: 24px;
     display: block;
-    background-image: url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/10/18/dcaf0f89-444e-4657-914a-58891edcc8ad.png);
+    background-image: url(../../images/footer/footer-small-icon.png);
     background-repeat: no-repeat;
     transition:all ease-out .3s;
     -moz-transition:all ease-out .3s;

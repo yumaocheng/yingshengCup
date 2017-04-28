@@ -18,8 +18,8 @@
 .sy_banner .banner_list .tempWrap {width:100%;height:100%;}
 .sy_banner .banner_list ul {width:100%;height:100%;}
 .sy_banner .banner_list li {float:left;width:100%;position:relative;height:100%;}
-.sy_banner .banner_list li.banner0 {background:url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/12/27/29c68ec5-8f2a-4121-b43c-638b00b1b8b4.jpg) no-repeat center top;}
-.sy_banner .banner_list li.banner1 {background:url(http://img.easthardware.com/upload/f/f1/feijian/picture/2016/12/28/24cdd645-255c-442c-91c9-bc98ba0942d4.jpg) no-repeat center top #000;}
+.sy_banner .banner_list li.banner0 {background:url(../../images/service/banner1.jpg) no-repeat center top;}
+.sy_banner .banner_list li.banner1 {background:url(../../images/service/banner2.jpg) no-repeat center top #000;}
 .sy_banner .banner_list li a {display:block;width:100%;height:100%;}
 /*自定义20*/
 #user_defined20 {margin:10px 0 0 0;padding:0;overflow:visible;}

@@ -56,8 +56,7 @@ $("#content div#container ul.thumbs img").each(function(){
 //插入
 $(document).ready(function(){
   $("#top_nav .headerMenuList").before('<a href="index.html" class="home" title="Zhejiang feijian industry and trade Co Ltd"></a>');
-  $("#top_nav .headerMenuList").after('<div class="top-search"><input id="keywords_text_111" class="searchb" name="keywords" type="text" /><input value="" onclick="toSearch111()" class="searcha"  type="button" title="Search"/></div>');
-  $("#top_nav #menu-contact").after('<li id="menu-yy" class="headerMenuLi"><span><a href="http://www.cnfeijian.com">中文版</a></span></li>');
+
   $(".hunk_breadcrumb_navigation .txt_j_15,.hunk_breadcrumb_navigation .txt_j_8,.hunk_breadcrumb_navigation .txt_j_9,.hunk_breadcrumb_navigation .txt_j5,.hunk_breadcrumb_navigation .txt_j_2,.hunk_breadcrumb_navigation .txt_j_7,.hunk_breadcrumb_navigation .txt_j_11,.hunk_breadcrumb_navigation .txt_j_12,.hunk_breadcrumb_navigation .txt_m").html("");
   $("#category_nav .treeDiv").children().addClass("list-1");
   $(".glitzPic a").removeAttr("target");

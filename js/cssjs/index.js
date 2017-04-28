@@ -10,27 +10,22 @@ function close_video(){
 }
 //第一屏
 $(function(){
-	$.ajax({
-        type: "get",
-        url: "http://wechat.ykit.net/jihuiapi/album/index/72872/1/4",
-        dataType: "jsonp",
-        jsonp: "callback",
-        jsonpCallback: "jsonCallback_album_banner1"+ new Date().getTime(),
-        success : function(data){
+     
             var html = "";
-            var listData = data.list;
+            var listData = [{"filename":"product_行无止境","pic_path":"../../images/index/banner-1.jpg"},
+			{"filename":"product_好品质才健康","pic_path":"../../images/index/banner-2.jpg"},
+			{"filename":"product_要么在路上要么出发","pic_path":"../../images/index/banner-3.jpg"},
+			{"filename":"product_温暖你心","pic_path":"../../images/index/banner-4.jpg"},
+			{"filename":"product_远行的梦","pic_path":"../../images/index/banner-5.jpg"},
+			{"filename":"product_简单自信","pic_path":"../../images/index/banner-6.jpg"},];
+			console.log(listData)
             if (listData) {
                 for (var i = 0;i<listData.length;i++) {
                     if (listData[i]) {
                         html += toHtml(listData[i]);
                     }                      
                 }
-                if(data.count == "0"){
-                	$(".swiper-wrapper").html("<span>暂无内容更新......</span>");
-				}else {
-
-					$(".swiper-wrapper").html(html);
-				};
+				$(".swiper-wrapper").html(html);
 				$(".swiper-container").bind({
 					mouseover:function(){$(this).addClass("banner1_bg");},  
 			    	mouseout:function(){$(this).removeClass("banner1_bg");}  
@@ -64,10 +59,7 @@ $(function(){
 					});
 				},250);
             }
-        },
-        error:function(data){
-        }
-    });
+        
     function toHtml(data) {
 		var banner = data.filename.split("_");
 	    var html = '<div class="swiper-slide">';
